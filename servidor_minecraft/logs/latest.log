@@ -204,3 +204,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [19Feb2025 21:00:29.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DauLuffy> zzz
 [19Feb2025 21:01:16.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [The Cutest Predator]
 [19Feb2025 21:02:17.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Amateur Archaeologist]
+[19Feb2025 21:06:40.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Knowledge of Death]
+[19Feb2025 21:06:40.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Ashes 'n Bones]
+[19Feb2025 21:09:49.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DauLuffy lost connection: Disconnected
+[19Feb2025 21:09:49.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy left the game
+[19Feb2025 21:09:49.735] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was unloaded
+[19Feb2025 21:14:52.864] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[19Feb2025 21:14:55.852] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[19Feb2025 21:14:55.852] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[19Feb2025 21:15:14.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DauLuffy[/10.144.101.34:49885] logged in with entity id 18414 at (407.9092315051781, 7.0, 745.8942088854045)
+[19Feb2025 21:15:14.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy joined the game
+[19Feb2025 21:15:14.351] [Server thread/INFO] [Jade/]: Syncing config to DauLuffy (98a18c82-c473-34f6-a10d-15a922221414)
+[19Feb2025 21:15:15.339] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was loaded
+[19Feb2025 21:15:52.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Knowledge raises the soul]
+[19Feb2025 21:16:18.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Monster Hunter]
