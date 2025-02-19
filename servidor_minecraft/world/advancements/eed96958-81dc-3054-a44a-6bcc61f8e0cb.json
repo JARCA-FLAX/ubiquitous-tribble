@@ -3168,7 +3168,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-02-19 20:52:34 +0000",
-      "cooked_beef": "2025-02-19 22:22:41 +0000"
+      "cooked_beef": "2025-02-19 22:22:41 +0000",
+      "beef": "2025-02-19 23:33:55 +0000"
     },
     "done": false
   },
