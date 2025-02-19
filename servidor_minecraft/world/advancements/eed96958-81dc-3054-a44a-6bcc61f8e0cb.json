@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-02-19 23:07:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 21:49:51 +0000"
@@ -371,6 +377,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-02-19 23:11:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-19 21:26:09 +0000"
@@ -470,6 +482,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-02-19 20:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-19 23:11:30 +0000"
     },
     "done": true
   },
@@ -1201,6 +1219,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 23:11:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-02-19 20:53:19 +0000"
@@ -1879,6 +1903,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 23:11:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 21:49:51 +0000"
@@ -2107,6 +2137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-19 23:11:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 21:49:51 +0000"
@@ -2320,6 +2356,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 21:49:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-02-19 23:11:29 +0000"
     },
     "done": true
   },
@@ -2911,6 +2953,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 23:11:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
     "criteria": {
       "has_planks": "2025-02-19 20:53:01 +0000"
@@ -3190,6 +3238,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-02-19 23:11:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-02-19 22:22:36 +0000"
@@ -3205,6 +3259,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-02-19 20:53:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 23:11:29 +0000"
     },
     "done": true
   },
