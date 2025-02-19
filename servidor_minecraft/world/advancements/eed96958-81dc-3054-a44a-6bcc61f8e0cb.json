@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-02-19 22:56:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 21:49:51 +0000"
@@ -1657,6 +1663,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-02-19 22:57:27 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-02-19 20:48:08 +0000"
@@ -3029,10 +3041,12 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-02-19 21:15:05 +0000",
       "minecraft:taiga": "2025-02-19 21:11:46 +0000",
+      "minecraft:cherry_grove": "2025-02-19 23:04:44 +0000",
       "minecraft:savanna_plateau": "2025-02-19 22:03:55 +0000",
       "minecraft:beach": "2025-02-19 20:51:10 +0000",
       "minecraft:dark_forest": "2025-02-19 21:20:26 +0000",
       "minecraft:stony_peaks": "2025-02-19 22:10:56 +0000",
+      "minecraft:mangrove_swamp": "2025-02-19 22:49:59 +0000",
       "minecraft:river": "2025-02-19 20:51:07 +0000",
       "minecraft:snowy_plains": "2025-02-19 20:49:29 +0000",
       "minecraft:dripstone_caves": "2025-02-19 22:07:11 +0000",
@@ -3040,6 +3054,7 @@
       "minecraft:cold_ocean": "2025-02-19 20:50:20 +0000",
       "minecraft:forest": "2025-02-19 20:50:51 +0000",
       "minecraft:frozen_ocean": "2025-02-19 20:49:57 +0000",
+      "minecraft:ocean": "2025-02-19 23:01:41 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-19 21:17:12 +0000",
       "minecraft:snowy_beach": "2025-02-19 20:48:08 +0000",
       "minecraft:meadow": "2025-02-19 22:00:13 +0000",
