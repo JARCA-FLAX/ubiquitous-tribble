@@ -194,3 +194,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [19Feb2025 20:48:07.204] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
 [19Feb2025 20:48:09.457] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
 [19Feb2025 20:54:31.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Stone Age]
+[19Feb2025 20:55:30.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Getting an Upgrade]
+[19Feb2025 20:55:54.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was blown up by Creeper
+[19Feb2025 20:55:54.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Your First Grave]
+[19Feb2025 20:55:54.233] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[19Feb2025 20:56:49.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Not Today, Thank You]
+[19Feb2025 20:59:59.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [The Lighthouse]
+[19Feb2025 21:00:17.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Sweet Dreams]
+[19Feb2025 21:00:29.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DauLuffy> zzz
+[19Feb2025 21:01:16.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [The Cutest Predator]
+[19Feb2025 21:02:17.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Amateur Archaeologist]
