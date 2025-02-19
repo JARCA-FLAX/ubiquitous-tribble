@@ -218,3 +218,150 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [19Feb2025 21:15:15.339] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was loaded
 [19Feb2025 21:15:52.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Knowledge raises the soul]
 [19Feb2025 21:16:18.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Monster Hunter]
+[19Feb2025 21:33:56.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Alex's Caves]
+[19Feb2025 21:35:10.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [It Belongs in a Museum]
+[19Feb2025 21:35:58.433] [Worker-Main-17/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[19Feb2025 21:35:58.451] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[19Feb2025 21:35:58.452] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[19Feb2025 21:35:58.452] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[19Feb2025 21:35:58.452] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[19Feb2025 21:35:58.453] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[19Feb2025 21:35:58.521] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[19Feb2025 21:35:58.522] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[19Feb2025 21:35:58.522] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[19Feb2025 21:36:00.732] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[19Feb2025 21:36:00.733] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[19Feb2025 21:36:00.745] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[19Feb2025 21:36:00.746] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[19Feb2025 21:36:00.746] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[19Feb2025 21:36:00.747] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[19Feb2025 21:36:00.747] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[19Feb2025 21:36:00.748] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[19Feb2025 21:36:00.749] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[19Feb2025 21:36:01.191] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[19Feb2025 21:36:01.192] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[19Feb2025 21:36:01.209] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[19Feb2025 21:36:01.211] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[19Feb2025 21:36:01.212] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[19Feb2025 21:36:01.212] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[19Feb2025 21:36:01.212] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[19Feb2025 21:37:45.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Chest Slayer]
+[19Feb2025 21:38:39.688] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[19Feb2025 21:38:39.688] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[19Feb2025 21:38:39.689] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[19Feb2025 21:38:39.689] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[19Feb2025 21:38:41.041] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[19Feb2025 21:38:41.042] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[19Feb2025 21:38:41.043] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[19Feb2025 21:38:41.043] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[19Feb2025 21:38:41.049] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[19Feb2025 21:38:44.285] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[19Feb2025 21:38:44.285] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[19Feb2025 21:38:44.286] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[19Feb2025 21:38:44.286] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[19Feb2025 21:38:44.286] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[19Feb2025 21:38:44.293] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[19Feb2025 21:38:44.294] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[19Feb2025 21:38:44.325] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[19Feb2025 21:38:44.325] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[19Feb2025 21:38:44.325] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[19Feb2025 21:38:44.326] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[19Feb2025 21:38:44.326] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[19Feb2025 21:38:44.326] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[19Feb2025 21:38:44.327] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[19Feb2025 21:38:44.336] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[19Feb2025 21:38:44.336] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[19Feb2025 21:38:44.337] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[19Feb2025 21:40:59.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Once Upon a Cave]
+[19Feb2025 21:45:55.961] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[19Feb2025 21:45:55.964] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[19Feb2025 21:45:56.110] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[19Feb2025 21:45:56.110] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[19Feb2025 21:46:17.826] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1317, y=-56, z=197}
+[19Feb2025 21:46:18.407] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[19Feb2025 21:46:18.415] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[19Feb2025 21:46:18.415] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[19Feb2025 21:46:18.416] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[19Feb2025 21:46:18.416] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[19Feb2025 21:46:18.416] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[19Feb2025 21:46:18.417] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[19Feb2025 21:46:18.417] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[19Feb2025 21:46:18.457] [Worker-Main-17/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[19Feb2025 21:46:18.464] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[19Feb2025 21:46:18.465] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[19Feb2025 21:46:18.465] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[19Feb2025 21:46:18.465] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[19Feb2025 21:46:21.479] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[19Feb2025 21:46:21.480] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[19Feb2025 21:46:21.480] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[19Feb2025 21:46:21.492] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[19Feb2025 21:46:21.492] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[19Feb2025 21:46:21.492] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[19Feb2025 21:46:21.493] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[19Feb2025 21:46:21.493] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[19Feb2025 21:46:21.498] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[19Feb2025 21:46:21.499] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[19Feb2025 21:46:21.499] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[19Feb2025 21:46:21.541] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[19Feb2025 21:46:21.541] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[19Feb2025 21:46:21.541] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[19Feb2025 21:46:21.542] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[19Feb2025 21:46:25.026] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[19Feb2025 21:46:25.027] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[19Feb2025 21:46:25.267] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[19Feb2025 21:46:25.267] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[19Feb2025 21:46:30.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DauLuffy a server operator
+[19Feb2025 21:46:48.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Spectator Mode]
+[19Feb2025 21:47:01.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[19Feb2025 21:47:54.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Spectator Mode]
+[19Feb2025 21:48:02.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[19Feb2025 21:48:10.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Spectator Mode]
+[19Feb2025 21:48:24.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[19Feb2025 21:49:01.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Spectator Mode]
+[19Feb2025 21:49:16.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Creative Mode]
+[19Feb2025 21:49:41.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Isn't It Iron Pick]
+[19Feb2025 21:49:51.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Acquire Hardware]
+[19Feb2025 21:50:02.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[19Feb2025 21:50:04.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Hunt and Gather]
+[19Feb2025 21:50:08.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Amateur Archaeologist]
+[19Feb2025 21:50:50.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Creative Mode]
+[19Feb2025 21:50:53.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Spectator Mode]
+[19Feb2025 21:52:00.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Creative Mode]
+[19Feb2025 21:52:09.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Spectator Mode]
+[19Feb2025 21:52:46.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[19Feb2025 21:52:59.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Creative Mode]
+[19Feb2025 21:53:15.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Spectator Mode]
+[19Feb2025 21:54:41.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Creative Mode]
+[19Feb2025 21:54:45.484] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/45093, l='ServerLevel[world]', x=787.92, y=65.63, z=1706.68] died, message: 'Butcher was slain by Zombie'
+[19Feb2025 21:54:49.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Spectator Mode]
+[19Feb2025 21:55:04.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Creative Mode]
+[19Feb2025 21:55:12.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[19Feb2025 21:56:09.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Spectator Mode]
+[19Feb2025 21:56:33.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[19Feb2025 21:56:54.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Spectator Mode]
+[19Feb2025 21:57:20.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45281, l='ServerLevel[world]', x=852.97, y=64.00, z=1761.63] died, message: 'Unemployed was slain by Zombie'
+[19Feb2025 21:57:30.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[19Feb2025 21:58:15.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Spectator Mode]
+[19Feb2025 21:59:05.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Teleported DauLuffy to CAMUS]
+[19Feb2025 21:59:15.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[19Feb2025 22:01:37.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Suit Up]
+[19Feb2025 22:02:19.235] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[19Feb2025 22:05:00.309] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=-56, z=2188}
+[19Feb2025 22:05:42.985] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[19Feb2025 22:05:42.986] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[19Feb2025 22:05:42.986] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[19Feb2025 22:05:42.987] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[19Feb2025 22:05:42.988] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-24, y=-57, z=2292}
+[19Feb2025 22:05:42.988] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[19Feb2025 22:05:42.989] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[19Feb2025 22:05:42.990] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[19Feb2025 22:05:42.990] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[19Feb2025 22:05:42.990] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-57, z=2292}
+[19Feb2025 22:05:43.035] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[19Feb2025 22:05:43.035] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[19Feb2025 22:05:48.281] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[19Feb2025 22:05:48.299] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[19Feb2025 22:08:24.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DauLuffy lost connection: Disconnected
+[19Feb2025 22:08:24.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy left the game
+[19Feb2025 22:08:24.781] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was unloaded
+[19Feb2025 22:13:34.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Not Today, Thank You]
