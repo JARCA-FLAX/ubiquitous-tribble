@@ -422,3 +422,359 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 02:09:59.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Phantom
 [20Feb2025 02:09:59.424] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
 [20Feb2025 02:10:08.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Ambush]
+[20Feb2025 02:10:40.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Magic Writing]
+[20Feb2025 02:11:13.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Mutual Aid]
+[20Feb2025 02:11:13.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has reached the goal [I see clearly now]
+[20Feb2025 02:11:37.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Wither Skeleton
+[20Feb2025 02:11:37.074] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:13:14.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS fell from a high place
+[20Feb2025 02:13:14.229] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:14:17.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DauLuffy was kicked for floating too long!
+[20Feb2025 02:14:17.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DauLuffy lost connection: Flying is not enabled on this server
+[20Feb2025 02:14:17.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy left the game
+[20Feb2025 02:14:17.265] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was unloaded
+[20Feb2025 02:14:28.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DauLuffy[/10.144.101.34:51841] logged in with entity id 24340 at (2906.983493368241, 192.61200807648393, 3912.2217826011442)
+[20Feb2025 02:14:28.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy joined the game
+[20Feb2025 02:14:28.099] [Server thread/INFO] [Jade/]: Syncing config to DauLuffy (98a18c82-c473-34f6-a10d-15a922221414)
+[20Feb2025 02:14:29.041] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was loaded
+[20Feb2025 02:14:32.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy fell from a high place
+[20Feb2025 02:14:32.847] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:15:07.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MUSA_JJ> zzzzzzzzzzzzzzzzzzzzz
+[20Feb2025 02:15:22.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MUSA_JJ> zzzzzzzzzzzzzzz
+[20Feb2025 02:15:26.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DauLuffy> zzzzzzzzzz
+[20Feb2025 02:15:26.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was blown up by Creeper
+[20Feb2025 02:15:26.564] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:18:30.608] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[20Feb2025 02:18:30.802] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[20Feb2025 02:18:30.986] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[20Feb2025 02:18:47.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Crops of the Wild]
+[20Feb2025 02:19:08.038] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[20Feb2025 02:19:08.221] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[20Feb2025 02:19:08.222] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[20Feb2025 02:19:08.296] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[20Feb2025 02:19:08.297] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[20Feb2025 02:19:08.306] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[20Feb2025 02:19:08.306] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[20Feb2025 02:19:08.326] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[20Feb2025 02:19:08.611] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[20Feb2025 02:19:11.145] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[20Feb2025 02:19:11.149] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[20Feb2025 02:19:11.149] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[20Feb2025 02:19:11.164] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[20Feb2025 02:19:11.165] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[20Feb2025 02:19:11.268] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-751}
+[20Feb2025 02:19:11.269] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-55, z=-752}
+[20Feb2025 02:19:11.269] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-57, z=-567}
+[20Feb2025 02:19:11.321] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[20Feb2025 02:19:11.321] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[20Feb2025 02:19:11.334] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[20Feb2025 02:19:11.556] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[20Feb2025 02:19:11.578] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[20Feb2025 02:19:11.580] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[20Feb2025 02:19:11.581] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[20Feb2025 02:19:11.587] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[20Feb2025 02:19:11.610] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-51, z=-611}
+[20Feb2025 02:19:11.610] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-50, z=-610}
+[20Feb2025 02:19:11.611] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[20Feb2025 02:19:11.666] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[20Feb2025 02:19:11.666] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[20Feb2025 02:19:11.667] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[20Feb2025 02:19:11.667] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[20Feb2025 02:19:11.668] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[20Feb2025 02:19:11.668] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[20Feb2025 02:19:11.678] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[20Feb2025 02:19:11.679] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[20Feb2025 02:19:11.691] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[20Feb2025 02:19:11.692] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[20Feb2025 02:19:11.692] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[20Feb2025 02:19:11.702] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-753}
+[20Feb2025 02:19:11.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-56, z=-754}
+[20Feb2025 02:19:11.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-753}
+[20Feb2025 02:19:11.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-755}
+[20Feb2025 02:19:11.704] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-55, z=-752}
+[20Feb2025 02:19:11.742] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[20Feb2025 02:19:11.742] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[20Feb2025 02:19:11.743] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[20Feb2025 02:19:11.743] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[20Feb2025 02:19:11.744] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[20Feb2025 02:19:11.989] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[20Feb2025 02:19:11.990] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[20Feb2025 02:19:11.990] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[20Feb2025 02:19:11.991] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[20Feb2025 02:19:11.991] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[20Feb2025 02:19:12.007] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[20Feb2025 02:19:12.029] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[20Feb2025 02:19:12.031] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-51, z=-611}
+[20Feb2025 02:19:12.031] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-50, z=-610}
+[20Feb2025 02:19:12.053] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[20Feb2025 02:19:12.055] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[20Feb2025 02:19:12.055] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[20Feb2025 02:19:12.056] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[20Feb2025 02:19:12.071] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-57, z=-559}
+[20Feb2025 02:19:12.120] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[20Feb2025 02:19:12.150] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[20Feb2025 02:19:12.150] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[20Feb2025 02:19:12.151] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[20Feb2025 02:19:12.151] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[20Feb2025 02:19:12.151] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[20Feb2025 02:19:12.202] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[20Feb2025 02:19:12.233] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[20Feb2025 02:19:12.248] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[20Feb2025 02:19:12.259] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[20Feb2025 02:19:12.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[20Feb2025 02:19:12.507] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[20Feb2025 02:19:12.551] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[20Feb2025 02:19:27.473] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[20Feb2025 02:19:27.474] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[20Feb2025 02:19:27.540] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-753}
+[20Feb2025 02:19:27.540] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-56, z=-754}
+[20Feb2025 02:19:27.541] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-753}
+[20Feb2025 02:19:27.541] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-755}
+[20Feb2025 02:19:27.542] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[20Feb2025 02:19:27.543] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[20Feb2025 02:19:27.725] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[20Feb2025 02:19:27.726] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[20Feb2025 02:19:27.788] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-57, z=-597}
+[20Feb2025 02:19:27.804] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[20Feb2025 02:19:27.822] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[20Feb2025 02:19:27.822] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[20Feb2025 02:19:27.822] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[20Feb2025 02:19:27.823] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[20Feb2025 02:19:27.823] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[20Feb2025 02:19:27.831] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-751}
+[20Feb2025 02:19:27.832] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[20Feb2025 02:19:27.835] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[20Feb2025 02:19:27.867] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[20Feb2025 02:19:27.868] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[20Feb2025 02:19:27.890] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[20Feb2025 02:19:27.890] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[20Feb2025 02:19:27.890] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[20Feb2025 02:19:27.891] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[20Feb2025 02:19:27.899] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[20Feb2025 02:19:27.899] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[20Feb2025 02:19:27.992] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[20Feb2025 02:19:28.022] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[20Feb2025 02:19:28.024] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[20Feb2025 02:19:28.025] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[20Feb2025 02:19:28.039] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[20Feb2025 02:19:28.048] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[20Feb2025 02:19:28.049] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[20Feb2025 02:19:28.056] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[20Feb2025 02:19:28.057] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[20Feb2025 02:19:28.070] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[20Feb2025 02:19:28.070] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[20Feb2025 02:19:28.200] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[20Feb2025 02:19:28.215] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[20Feb2025 02:19:28.215] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[20Feb2025 02:19:28.231] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[20Feb2025 02:19:28.232] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[20Feb2025 02:19:28.232] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[20Feb2025 02:19:28.255] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[20Feb2025 02:19:28.255] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[20Feb2025 02:19:28.328] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[20Feb2025 02:19:28.329] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[20Feb2025 02:19:28.460] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[20Feb2025 02:19:28.461] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[20Feb2025 02:19:28.471] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[20Feb2025 02:19:28.489] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[20Feb2025 02:19:28.489] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[20Feb2025 02:19:28.758] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[20Feb2025 02:19:28.767] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[20Feb2025 02:19:28.788] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[20Feb2025 02:19:28.788] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[20Feb2025 02:19:28.788] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[20Feb2025 02:19:31.270] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[20Feb2025 02:19:31.282] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[20Feb2025 02:19:31.282] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[20Feb2025 02:19:31.302] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[20Feb2025 02:19:31.302] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[20Feb2025 02:19:31.331] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[20Feb2025 02:19:31.332] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[20Feb2025 02:19:31.455] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[20Feb2025 02:19:31.455] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[20Feb2025 02:19:31.469] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[20Feb2025 02:19:34.734] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[20Feb2025 02:19:34.734] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[20Feb2025 02:19:34.736] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[20Feb2025 02:19:34.736] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[20Feb2025 02:19:34.736] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[20Feb2025 02:19:34.840] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-553, y=-53, z=-830}
+[20Feb2025 02:19:34.853] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[20Feb2025 02:19:34.853] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[20Feb2025 02:19:34.854] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[20Feb2025 02:19:34.854] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[20Feb2025 02:19:34.892] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[20Feb2025 02:19:34.892] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[20Feb2025 02:19:34.893] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[20Feb2025 02:19:42.145] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[20Feb2025 02:19:42.278] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[20Feb2025 02:19:42.279] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[20Feb2025 02:19:42.378] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-549, y=-52, z=-829}
+[20Feb2025 02:19:42.378] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-551, y=-52, z=-829}
+[20Feb2025 02:19:42.378] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-552, y=-51, z=-829}
+[20Feb2025 02:19:42.379] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-552, y=-51, z=-827}
+[20Feb2025 02:19:42.379] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-551, y=-53, z=-830}
+[20Feb2025 02:19:42.379] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-550, y=-52, z=-830}
+[20Feb2025 02:19:42.388] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[20Feb2025 02:19:42.390] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[20Feb2025 02:19:42.390] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[20Feb2025 02:19:42.390] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[20Feb2025 02:19:42.608] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[20Feb2025 02:19:46.503] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[20Feb2025 02:19:46.503] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[20Feb2025 02:19:46.503] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[20Feb2025 02:19:46.504] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[20Feb2025 02:19:46.549] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[20Feb2025 02:29:53.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Teleported DauLuffy to MUSA_JJ]
+[20Feb2025 02:33:22.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Diamonds!]
+[20Feb2025 02:34:45.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Spider
+[20Feb2025 02:34:45.828] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:35:12.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Teleported CAMUS to DauLuffy]
+[20Feb2025 02:35:19.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[20Feb2025 02:35:19.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Flying is not enabled on this server
+[20Feb2025 02:35:19.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
+[20Feb2025 02:35:19.723] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
+[20Feb2025 02:35:33.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Welcome To The Machine]
+[20Feb2025 02:35:34.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:57301] logged in with entity id 41085 at (2047.6024448128371, 90.9023734633558, 3894.4809136515405)
+[20Feb2025 02:35:34.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
+[20Feb2025 02:35:34.294] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
+[20Feb2025 02:35:35.621] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
+[20Feb2025 02:36:38.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Welcome To The Machine]
+[20Feb2025 02:36:56.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Welcome To The Machine]
+[20Feb2025 02:37:21.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:37:21.999] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:37:28.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/41223, l='ServerLevel[world]', x=2060.74, y=179.00, z=3880.85] died: Gearling went off with a bang
+[20Feb2025 02:37:40.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:37:40.078] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:37:54.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:37:54.880] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:38:36.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/41540, l='ServerLevel[world]', x=2059.53, y=203.50, z=3890.77] died: Gearling was slain by DauLuffy
+[20Feb2025 02:38:45.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:38:45.275] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:38:57.228] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/42274, l='ServerLevel[world]', x=2058.02, y=207.00, z=3884.26] died: Gearling was slain by DauLuffy
+[20Feb2025 02:38:57.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:38:57.587] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:39:06.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Skeleton
+[20Feb2025 02:39:06.130] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:39:15.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:39:15.474] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:39:23.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:39:23.272] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:39:23.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/42253, l='ServerLevel[world]', x=2062.14, y=207.56, z=3893.89] died: Gearling was blown up by Creeper
+[20Feb2025 02:39:34.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:39:34.600] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:39:59.127] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/42282, l='ServerLevel[world]', x=2057.15, y=207.00, z=3884.15] died: Gearling was slain by MUSA_JJ
+[20Feb2025 02:40:09.472] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/43086, l='ServerLevel[world]', x=2066.81, y=207.00, z=3885.73] died: Gearling was slain by CAMUS
+[20Feb2025 02:40:12.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Gearling
+[20Feb2025 02:40:12.036] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:40:17.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Gearling
+[20Feb2025 02:40:17.479] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:40:30.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:40:30.704] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:40:44.521] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/43088, l='ServerLevel[world]', x=2065.41, y=212.00, z=3879.77] died: Gearling was slain by DauLuffy
+[20Feb2025 02:41:07.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Gearling
+[20Feb2025 02:41:07.230] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:41:08.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Gearling
+[20Feb2025 02:41:08.130] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:41:16.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 02:41:16.329] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:41:43.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/42731, l='ServerLevel[world]', x=2065.06, y=207.00, z=3897.27] died: Gearling was slain by MUSA_JJ
+[20Feb2025 02:41:44.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [A Strange Grave Dust]
+[20Feb2025 02:42:09.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was struck by lightning
+[20Feb2025 02:42:09.281] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:42:34.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Ambush]
+[20Feb2025 02:43:19.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
+[20Feb2025 02:43:19.079] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:43:38.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Ol' Betsy]
+[20Feb2025 02:43:38.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Take Aim]
+[20Feb2025 02:43:47.120] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/42263, l='ServerLevel[world]', x=2062.20, y=224.00, z=3889.44] died: Gearling fell from a high place
+[20Feb2025 02:43:47.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was struck by lightning
+[20Feb2025 02:43:47.781] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:44:16.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 02:44:16.633] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:44:23.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 02:44:23.682] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:44:26.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Gearling
+[20Feb2025 02:44:26.381] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:44:38.531] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/42933, l='ServerLevel[world]', x=2073.57, y=223.00, z=3889.63] died: Gearling was slain by MUSA_JJ
+[20Feb2025 02:44:39.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Gearling
+[20Feb2025 02:44:39.382] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:44:47.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 02:44:47.780] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:44:58.954] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/41552, l='ServerLevel[world]', x=2077.36, y=212.00, z=3892.35] died: Gearling was slain by CAMUS
+[20Feb2025 02:45:30.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 02:45:30.045] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:45:50.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:45:50.177] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:45:57.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Skeleton
+[20Feb2025 02:45:57.483] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:46:12.024] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/46114, l='ServerLevel[world]', x=2055.73, y=194.00, z=3842.41] died: Gearling was slain by DauLuffy
+[20Feb2025 02:46:13.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:46:13.736] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:46:16.624] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/42732, l='ServerLevel[world]', x=2068.35, y=224.00, z=3883.65] died: Gearling went off with a bang
+[20Feb2025 02:46:22.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:46:22.995] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:46:23.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 02:46:23.777] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:46:40.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:46:40.081] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:46:50.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/45839, l='ServerLevel[world]', x=2072.28, y=190.00, z=3846.49] died: Gearling was slain by DauLuffy
+[20Feb2025 02:46:51.772] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/46613, l='ServerLevel[world]', x=2067.62, y=192.77, z=3847.51] died: Gearling was blown up by Creeper
+[20Feb2025 02:46:57.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:46:57.629] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:47:02.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Skeleton
+[20Feb2025 02:47:02.430] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:47:07.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 02:47:07.483] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:47:13.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/45837, l='ServerLevel[world]', x=2063.77, y=190.00, z=3845.54] died: Gearling was slain by DauLuffy
+[20Feb2025 02:47:15.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/46615, l='ServerLevel[world]', x=2063.96, y=190.00, z=3845.50] died: Gearling was slain by DauLuffy
+[20Feb2025 02:47:42.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Skeleton
+[20Feb2025 02:47:42.077] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:47:54.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 02:47:54.833] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:47:57.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set the time to 1000]
+[20Feb2025 02:48:15.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Skeleton
+[20Feb2025 02:48:15.474] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:48:39.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 02:48:39.087] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:48:46.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Ravager
+[20Feb2025 02:48:46.325] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:48:58.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:48:58.789] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:49:30.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:49:30.282] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:49:38.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 02:49:38.435] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:49:50.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/47761, l='ServerLevel[world]', x=2062.15, y=212.00, z=3773.74] died: Gearling was slain by DauLuffy
+[20Feb2025 02:49:55.727] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/47433, l='ServerLevel[world]', x=2062.88, y=212.06, z=3768.31] died: Gearling was slain by DauLuffy
+[20Feb2025 02:50:01.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 02:50:01.481] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:50:06.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was shot by Skeleton
+[20Feb2025 02:50:06.182] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:50:11.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Skeleton
+[20Feb2025 02:50:11.545] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:50:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was shot by Skeleton
+[20Feb2025 02:50:33.331] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:51:02.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 02:51:02.635] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:51:23.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 02:51:23.024] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:51:44.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Skeleton
+[20Feb2025 02:51:44.287] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:52:02.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 02:52:02.334] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:52:26.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Skeleton
+[20Feb2025 02:52:26.994] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:53:27.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Skeleton
+[20Feb2025 02:53:27.834] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:54:04.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Skeleton
+[20Feb2025 02:54:04.981] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:54:35.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Skeleton
+[20Feb2025 02:54:35.435] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:55:15.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Ravager
+[20Feb2025 02:55:15.848] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:55:18.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Sneak 100]
+[20Feb2025 02:55:19.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Wither Skeleton
+[20Feb2025 02:55:19.678] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:58:02.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Zombie
+[20Feb2025 02:58:02.139] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
