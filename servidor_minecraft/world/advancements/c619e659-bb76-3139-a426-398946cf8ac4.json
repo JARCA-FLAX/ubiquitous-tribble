@@ -4789,6 +4789,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-20 21:00:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-02-20 19:37:03 +0000"
@@ -4891,6 +4897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-20 21:00:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
       "has_jungle_planks": "2025-02-20 19:55:18 +0000"
@@ -4987,6 +4999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-20 21:00:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
     "criteria": {
       "has_jungle_planks": "2025-02-20 19:55:18 +0000"
@@ -5008,6 +5026,12 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-02-20 19:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-20 21:00:30 +0000"
     },
     "done": true
   },
@@ -5209,6 +5233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-20 21:00:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_toilet": {
     "criteria": {
       "has_dye": "2025-02-20 20:47:55 +0000"
@@ -5320,6 +5350,12 @@
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-02-20 19:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-20 21:00:49 +0000"
     },
     "done": true
   },
@@ -5641,6 +5677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-20 21:00:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-02-20 20:26:37 +0000"
@@ -5728,6 +5770,12 @@
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-02-20 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-20 21:00:30 +0000"
     },
     "done": true
   },
