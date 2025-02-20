@@ -353,3 +353,72 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 01:59:37.424] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
 [20Feb2025 01:59:40.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was shot by Wither Skeleton
 [20Feb2025 01:59:40.518] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:01:10.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Wither Skeleton
+[20Feb2025 02:01:10.570] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:01:19.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Magic Writing]
+[20Feb2025 02:01:28.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ withered away
+[20Feb2025 02:01:28.922] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:01:42.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS withered away whilst fighting Wither Skeleton
+[20Feb2025 02:01:42.921] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:01:52.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was burnt to a crisp whilst fighting Wither Skeleton
+[20Feb2025 02:01:52.671] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:02:08.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Wither Skeleton
+[20Feb2025 02:02:08.121] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:02:25.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS withered away whilst fighting Skeleton
+[20Feb2025 02:02:25.472] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:02:41.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was killed by Witch using magic
+[20Feb2025 02:02:41.723] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:02:59.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was shot by Skeleton
+[20Feb2025 02:02:59.520] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:03:26.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Wither Skeleton
+[20Feb2025 02:03:26.629] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:03:33.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has reached the goal [A Fast Comeback]
+[20Feb2025 02:03:57.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has reached the goal [Like a bird]
+[20Feb2025 02:04:25.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was doomed to fall
+[20Feb2025 02:04:25.733] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:04:27.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ hit the ground too hard whilst trying to escape Wither Skeleton
+[20Feb2025 02:04:27.399] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:04:33.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[20Feb2025 02:04:33.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Flying is not enabled on this server
+[20Feb2025 02:04:33.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
+[20Feb2025 02:04:33.669] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
+[20Feb2025 02:04:46.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Wither Skeleton
+[20Feb2025 02:04:46.774] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:04:47.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:65176] logged in with entity id 22325 at (2869.2032155273823, 158.09605679799762, 3878.552250003935)
+[20Feb2025 02:04:47.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
+[20Feb2025 02:04:47.124] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
+[20Feb2025 02:04:48.395] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
+[20Feb2025 02:04:51.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was shot by Wither Skeleton
+[20Feb2025 02:04:51.769] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:04:54.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[20Feb2025 02:04:54.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Flying is not enabled on this server
+[20Feb2025 02:04:54.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
+[20Feb2025 02:04:54.666] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
+[20Feb2025 02:05:06.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:65440] logged in with entity id 22446 at (2876.413195881608, 143.5469383086013, 3883.2750537603843)
+[20Feb2025 02:05:06.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
+[20Feb2025 02:05:06.083] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
+[20Feb2025 02:05:07.318] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
+[20Feb2025 02:05:19.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Hoglin
+[20Feb2025 02:05:19.125] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:05:32.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was doomed to fall by Wither Skeleton
+[20Feb2025 02:05:32.895] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:05:43.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Wither Skeleton
+[20Feb2025 02:05:43.373] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:06:03.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Wither Skeleton
+[20Feb2025 02:06:03.476] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:06:14.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has reached the goal [Bone Crusher]
+[20Feb2025 02:06:47.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Wither Skeleton
+[20Feb2025 02:06:47.680] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 02:06:50.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Hoglin
+[20Feb2025 02:06:50.877] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:07:07.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was shot by Wither Skeleton
+[20Feb2025 02:07:07.820] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:07:24.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Hoglin
+[20Feb2025 02:07:24.977] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:08:01.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Where Is The Stone Pen?]
+[20Feb2025 02:08:08.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Magic Writing]
+[20Feb2025 02:08:37.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Wither Skeleton
+[20Feb2025 02:08:37.628] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 02:09:59.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Phantom
+[20Feb2025 02:09:59.424] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 02:10:08.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Ambush]
