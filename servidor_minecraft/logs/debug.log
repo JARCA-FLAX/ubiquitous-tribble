@@ -5967,3 +5967,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 03:54:53.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Feb2025 03:59:53.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Feb2025 03:59:53.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 04:03:32.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 04:03:32.633] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:557, y:134, z:3361, dim:minecraft:overworld]
+[20Feb2025 04:03:32.638] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 04:04:40.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 04:04:41.068] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:565, y:135, z:3365, dim:minecraft:overworld]
+[20Feb2025 04:04:41.077] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 04:04:53.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 04:04:53.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 04:06:56.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 04:06:56.732] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:568, y:135, z:3355, dim:minecraft:overworld]
+[20Feb2025 04:06:56.740] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 04:09:53.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 04:09:53.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 04:10:04.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Take Aim]
+[20Feb2025 04:10:05.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 04:10:06.511] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:568, y:135, z:3355, dim:minecraft:overworld]
+[20Feb2025 04:10:06.520] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 04:11:07.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 04:11:07.827] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:571, y:135, z:3350, dim:minecraft:overworld]
+[20Feb2025 04:11:07.834] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved

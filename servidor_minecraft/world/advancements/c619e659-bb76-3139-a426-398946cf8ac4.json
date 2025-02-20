@@ -1971,6 +1971,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-02-20 01:24:03 +0000",
+      "baked_potato": "2025-02-20 04:08:24 +0000",
       "pumpkin_pie": "2025-02-20 02:19:16 +0000",
       "bread": "2025-02-20 02:35:17 +0000",
       "golden_carrot": "2025-02-20 02:11:24 +0000",
@@ -4481,6 +4482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-02-20 04:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_stairs": {
     "criteria": {
       "has_planks": "2025-02-20 03:31:17 +0000"
@@ -4496,6 +4503,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-02-20 03:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-20 04:09:43 +0000"
     },
     "done": true
   },
@@ -4604,6 +4617,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-02-20 03:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-02-20 04:09:45 +0000"
     },
     "done": true
   },

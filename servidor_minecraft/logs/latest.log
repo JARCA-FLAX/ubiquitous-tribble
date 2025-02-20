@@ -936,3 +936,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 03:50:29.864] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
 [20Feb2025 03:52:23.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ fell from a high place
 [20Feb2025 03:52:24.294] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 04:03:32.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 04:03:32.638] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 04:04:40.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 04:04:41.077] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 04:06:56.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 04:06:56.740] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 04:10:04.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Take Aim]
+[20Feb2025 04:10:05.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 04:10:06.520] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 04:11:07.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 04:11:07.834] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
