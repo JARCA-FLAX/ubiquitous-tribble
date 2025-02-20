@@ -200,3 +200,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 18:26:31.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ joined the game
 [20Feb2025 18:26:31.418] [Server thread/INFO] [Jade/]: Syncing config to MUSA_JJ (c619e659-bb76-3139-a426-398946cf8ac4)
 [20Feb2025 18:26:33.209] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was loaded
+[20Feb2025 18:35:36.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Voluntary Exile]
+[20Feb2025 18:40:57.696] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/6377, l='ServerLevel[world]', x=364.53, y=71.00, z=6590.24] died, message: 'Fisherman was shot by Pillager'
+[20Feb2025 18:41:13.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has reached the goal [Fortuitous Militia]
+[20Feb2025 18:43:57.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
+[20Feb2025 18:43:58.840] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved

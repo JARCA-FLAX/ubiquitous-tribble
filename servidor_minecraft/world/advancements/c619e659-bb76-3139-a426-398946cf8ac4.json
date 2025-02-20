@@ -1995,6 +1995,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-20 18:35:00 +0000",
       "minecraft:skeleton": "2025-02-20 01:28:53 +0000",
       "minecraft:ravager": "2025-02-20 02:42:04 +0000",
       "minecraft:spider": "2025-02-20 01:33:45 +0000",
@@ -4769,6 +4770,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-02-20 04:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-20 18:35:36 +0000"
     },
     "done": true
   },
