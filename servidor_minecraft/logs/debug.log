@@ -2451,3 +2451,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 18:43:57.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
 [20Feb2025 18:43:58.829] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:365, y:70, z:6588, dim:minecraft:overworld]
 [20Feb2025 18:43:58.840] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 18:44:49.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
+[20Feb2025 18:44:50.287] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:372, y:68, z:6583, dim:minecraft:overworld]
+[20Feb2025 18:44:50.298] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 18:45:01.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 18:45:01.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 18:46:10.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/8569, l='ServerLevel[world]', x=378.83, y=75.02, z=6600.83] died, message: 'Butcher was slain by Vindicator'
+[20Feb2025 18:46:23.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
+[20Feb2025 18:46:24.520] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:393, y:71, z:6578, dim:minecraft:overworld]
+[20Feb2025 18:46:24.528] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 18:46:29.763] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[20Feb2025 18:46:29.763] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md969f63$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[20Feb2025 18:47:18.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
+[20Feb2025 18:47:19.579] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:345, y:77, z:6575, dim:minecraft:overworld]
+[20Feb2025 18:47:19.586] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 18:47:55.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Pillager
+[20Feb2025 18:47:55.835] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:329, y:77, z:6592, dim:minecraft:overworld]
+[20Feb2025 18:47:55.838] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 18:48:29.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
+[20Feb2025 18:48:30.455] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:346, y:81, z:6620, dim:minecraft:overworld]
+[20Feb2025 18:48:30.463] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 18:48:34.533] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/10532, l='ServerLevel[world]', x=337.70, y=82.00, z=6622.49] died, message: 'Fisherman was slain by Ravager'
+[20Feb2025 18:48:40.583] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/10531, l='ServerLevel[world]', x=333.70, y=83.75, z=6630.47] died, message: 'Nitwit was slain by Ravager'
+[20Feb2025 18:48:47.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has reached the goal [Discreet Search]
+[20Feb2025 18:50:01.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 18:50:01.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 18:51:45.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
+[20Feb2025 18:51:46.379] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:357, y:74, z:6576, dim:minecraft:overworld]
+[20Feb2025 18:51:46.385] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 18:52:48.146] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/11609, l='ServerLevel[world]', x=400.56, y=101.25, z=6657.73] died, message: 'Cartographer was slain by Vex'
+[20Feb2025 18:52:56.337] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/11595, l='ServerLevel[world]', x=371.13, y=94.00, z=6653.87] died, message: 'Weaponsmith was slain by Vindicator'
+[20Feb2025 18:53:01.239] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/11594, l='ServerLevel[world]', x=370.41, y=95.03, z=6642.42] died, message: 'Armorer was slain by Vindicator'
+[20Feb2025 18:53:06.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/11593, l='ServerLevel[world]', x=384.00, y=98.00, z=6652.27] died, message: 'Cartographer was shot by Pillager'
+[20Feb2025 18:53:17.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/11592, l='ServerLevel[world]', x=381.91, y=98.00, z=6654.93] died, message: 'Armorer was shot by Pillager'
+[20Feb2025 18:53:33.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/11519, l='ServerLevel[world]', x=345.37, y=85.00, z=6648.49] died, message: 'Shepherd was shot by Pillager'
+[20Feb2025 18:53:57.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/11522, l='ServerLevel[world]', x=327.51, y=85.00, z=6649.70] died, message: 'Fisherman was shot by Pillager'
