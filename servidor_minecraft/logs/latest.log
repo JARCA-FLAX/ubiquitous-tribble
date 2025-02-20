@@ -947,3 +947,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 04:10:06.520] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
 [20Feb2025 04:11:07.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
 [20Feb2025 04:11:07.834] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 04:12:44.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 04:12:45.353] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 04:13:18.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 04:13:18.315] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 04:13:49.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has reached the goal [Bone Crusher]
+[20Feb2025 04:16:01.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 04:16:02.237] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 04:19:04.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 04:19:04.800] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 04:24:29.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.4168166459028839
+[20Feb2025 04:24:29.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.9213066940084981
