@@ -2622,3 +2622,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 20:20:21.819] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=618}
 [20Feb2025 20:25:01.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Feb2025 20:25:01.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 20:30:01.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 20:30:01.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 20:34:44.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Skeleton
+[20Feb2025 20:34:44.690] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2296, y:67, z:4597, dim:minecraft:overworld]
+[20Feb2025 20:34:44.691] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 20:35:01.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 20:35:01.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 20:35:52.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Cover Me with Diamonds]
+[20Feb2025 20:36:08.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Husk
+[20Feb2025 20:36:09.095] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2312, y:74, z:4580, dim:minecraft:overworld]
+[20Feb2025 20:36:09.109] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 20:36:32.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Husk
+[20Feb2025 20:36:33.265] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2312, y:77, z:4575, dim:minecraft:overworld]
+[20Feb2025 20:36:33.284] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 20:36:45.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Husk
+[20Feb2025 20:36:45.872] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2313, y:76, z:4574, dim:minecraft:overworld]
+[20Feb2025 20:36:45.884] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 20:37:16.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Husk
+[20Feb2025 20:37:17.307] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2300, y:67, z:4604, dim:minecraft:overworld]
+[20Feb2025 20:37:17.319] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 20:38:01.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Skeleton
+[20Feb2025 20:38:02.060] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2304, y:86, z:4588, dim:minecraft:overworld]
+[20Feb2025 20:38:02.061] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 20:38:48.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
+[20Feb2025 20:38:48.993] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2316, y:86, z:4581, dim:minecraft:overworld]
+[20Feb2025 20:38:48.994] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 20:39:32.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
+[20Feb2025 20:39:33.126] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2306, y:84, z:4580, dim:minecraft:overworld]
+[20Feb2025 20:39:33.126] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 20:40:01.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 20:40:01.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 20:45:01.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 20:45:01.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 20:50:01.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 20:50:01.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 20:55:01.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 20:55:01.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
