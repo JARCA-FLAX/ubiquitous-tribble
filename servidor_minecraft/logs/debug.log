@@ -2579,3 +2579,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 19:21:05.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.508943435490437
 [20Feb2025 19:21:05.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.508943435490437
 [20Feb2025 19:21:05.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.508943435490437
+[20Feb2025 19:25:01.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 19:25:01.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 19:30:01.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 19:30:01.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 19:35:01.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 19:35:01.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 19:40:01.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 19:40:01.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 19:42:59.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ blew up
+[20Feb2025 19:43:00.175] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:107, y:34, z:7271, dim:minecraft:overworld]
+[20Feb2025 19:43:00.182] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:45:01.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 19:45:01.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 19:50:01.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 19:50:01.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 19:55:01.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 19:55:01.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 20:00:01.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 20:00:01.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 20:03:29.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.31892543042613397
+[20Feb2025 20:03:29.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.6492103168905032
+[20Feb2025 20:03:29.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.9831857770684564
+[20Feb2025 20:05:01.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 20:05:01.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 20:09:12.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved too quickly! 9.56541997072145,3.0,0.3420651117075977
+[20Feb2025 20:09:12.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved too quickly! 9.963654062717524,3.0,0.36675251453198143
+[20Feb2025 20:09:12.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved too quickly! 10.360652666432543,4.0,0.4090656629150544
+[20Feb2025 20:09:12.902] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-53, z=1724}
+[20Feb2025 20:10:01.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 20:10:01.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 20:11:49.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved too quickly! 7.931534607334015,0.0,-6.110683164520196
+[20Feb2025 20:11:49.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved too quickly! 8.248795990937651,0.0,-6.355110492073436
+[20Feb2025 20:11:49.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved too quickly! 8.566057374541288,0.0,-6.599537819626676
+[20Feb2025 20:15:01.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 20:15:01.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 20:20:01.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 20:20:01.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 20:20:20.252] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=626}
+[20Feb2025 20:20:20.253] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=626}
+[20Feb2025 20:20:21.819] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=618}
+[20Feb2025 20:20:21.819] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=618}
+[20Feb2025 20:25:01.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 20:25:01.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
