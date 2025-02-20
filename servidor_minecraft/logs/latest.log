@@ -260,3 +260,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 19:02:41.737] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
 [20Feb2025 19:03:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
 [20Feb2025 19:03:23.424] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:04:41.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
+[20Feb2025 19:04:42.400] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:05:15.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
+[20Feb2025 19:05:15.731] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:05:57.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
+[20Feb2025 19:05:58.378] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:06:14.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
+[20Feb2025 19:06:14.966] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:07:08.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
+[20Feb2025 19:07:08.830] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:07:26.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
+[20Feb2025 19:07:26.393] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:07:57.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was doomed to fall by Ravager
+[20Feb2025 19:07:58.353] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:08:30.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
+[20Feb2025 19:08:31.509] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:08:45.438] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/21059, l='ServerLevel[world]', x=372.83, y=96.02, z=6657.55] died, message: 'Armorer was slain by Vex'
+[20Feb2025 19:10:20.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
+[20Feb2025 19:10:21.035] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:11:03.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
+[20Feb2025 19:11:04.460] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:13:51.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Pillager
+[20Feb2025 19:13:51.699] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
