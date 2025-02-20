@@ -778,3 +778,116 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 02:55:19.678] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
 [20Feb2025 02:58:02.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Zombie
 [20Feb2025 02:58:02.139] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:01:03.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:01:03.274] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:01:16.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:01:16.679] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:01:22.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was struck by lightning
+[20Feb2025 03:01:22.079] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 03:01:41.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:01:41.635] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:01:50.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Teleported MUSA_JJ to CAMUS]
+[20Feb2025 03:01:56.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has reached the goal [Discreet Search]
+[20Feb2025 03:02:01.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:02:01.885] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:02:09.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:02:09.430] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:02:17.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:02:17.028] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:02:54.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:02:54.731] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:03:16.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was struck by lightning
+[20Feb2025 03:03:16.584] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 03:03:35.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:03:35.829] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:03:50.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:03:50.880] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:03:59.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Creative Mode]
+[20Feb2025 03:04:26.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was struck by lightning
+[20Feb2025 03:04:26.524] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 03:05:00.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Teleported MUSA_JJ to CAMUS]
+[20Feb2025 03:05:08.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[20Feb2025 03:06:16.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was shot by Skeleton
+[20Feb2025 03:06:16.074] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:07:02.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was blown up by Creeper
+[20Feb2025 03:07:02.432] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:07:16.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Spectator Mode]
+[20Feb2025 03:07:18.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Gearling
+[20Feb2025 03:07:18.674] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 03:07:36.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[20Feb2025 03:07:49.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Teleported MUSA_JJ to CAMUS]
+[20Feb2025 03:11:20.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ fell from a high place
+[20Feb2025 03:11:20.626] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 03:11:38.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ was kicked for floating too long!
+[20Feb2025 03:11:38.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ lost connection: Flying is not enabled on this server
+[20Feb2025 03:11:38.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ left the game
+[20Feb2025 03:11:38.178] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was unloaded
+[20Feb2025 03:12:04.277] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21c6a706[id=<null>,name=MUSA_JJ,properties={},legacy=false] (/10.144.29.48:51883) lost connection: Disconnected
+[20Feb2025 03:12:06.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Ravager
+[20Feb2025 03:12:06.528] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:12:21.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MUSA_JJ[/10.144.29.48:51884] logged in with entity id 55122 at (2053.826358826657, 172.14998983419147, 3855.676654017165)
+[20Feb2025 03:12:21.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ joined the game
+[20Feb2025 03:12:21.299] [Server thread/INFO] [Jade/]: Syncing config to MUSA_JJ (c619e659-bb76-3139-a426-398946cf8ac4)
+[20Feb2025 03:12:22.429] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was loaded
+[20Feb2025 03:12:42.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ was kicked for floating too long!
+[20Feb2025 03:12:42.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ lost connection: Flying is not enabled on this server
+[20Feb2025 03:12:42.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ left the game
+[20Feb2025 03:12:42.971] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was unloaded
+[20Feb2025 03:13:03.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Ravager
+[20Feb2025 03:13:03.179] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:13:12.331] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MUSA_JJ[/10.144.29.48:51889] logged in with entity id 55408 at (2055.884777038024, 106.88130461849784, 3868.294448775964)
+[20Feb2025 03:13:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ joined the game
+[20Feb2025 03:13:12.394] [Server thread/INFO] [Jade/]: Syncing config to MUSA_JJ (c619e659-bb76-3139-a426-398946cf8ac4)
+[20Feb2025 03:13:13.425] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was loaded
+[20Feb2025 03:14:24.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 03:14:24.681] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:14:31.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 03:14:31.876] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:14:45.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 03:14:45.285] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:14:56.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/56189, l='ServerLevel[world]', x=2061.15, y=209.25, z=3796.13] died: Gearling was slain by DauLuffy
+[20Feb2025 03:14:59.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 03:14:59.593] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:15:14.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 03:15:14.631] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:15:23.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was struck by lightning
+[20Feb2025 03:15:23.933] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 03:15:27.395] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/56192, l='ServerLevel[world]', x=2057.15, y=207.00, z=3797.91] died: Gearling was slain by DauLuffy
+[20Feb2025 03:15:29.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 03:15:29.776] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:15:42.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was struck by lightning
+[20Feb2025 03:15:42.175] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 03:15:59.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 03:15:59.681] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:16:09.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Gearling
+[20Feb2025 03:16:09.983] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:16:20.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/55829, l='ServerLevel[world]', x=2070.89, y=207.02, z=3789.21] died: Gearling was slain by DauLuffy
+[20Feb2025 03:16:48.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:16:48.535] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:17:09.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:17:09.277] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:17:17.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:17:17.284] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:17:41.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:17:41.884] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:18:12.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:18:12.980] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:19:07.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set the time to 1000]
+[20Feb2025 03:19:12.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:19:12.598] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:19:40.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy went off with a bang
+[20Feb2025 03:19:40.530] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:19:58.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:19:58.985] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:22:17.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:22:17.143] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:22:40.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:22:40.888] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:22:49.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was slain by Skeleton
+[20Feb2025 03:22:49.300] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 03:23:59.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Disconnected
+[20Feb2025 03:23:59.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
+[20Feb2025 03:23:59.708] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
+[20Feb2025 03:25:52.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set the time to 1000]
+[20Feb2025 03:25:58.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Spectator Mode]
+[20Feb2025 03:26:30.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
