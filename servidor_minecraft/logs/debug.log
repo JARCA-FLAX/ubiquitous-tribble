@@ -5960,3 +5960,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 03:49:53.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Feb2025 03:50:29.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ went up in flames
 [20Feb2025 03:50:29.864] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 03:52:23.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ fell from a high place
+[20Feb2025 03:52:24.276] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2067, y:68, z:3905, dim:minecraft:overworld]
+[20Feb2025 03:52:24.294] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 03:54:53.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 03:54:53.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 03:59:53.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 03:59:53.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

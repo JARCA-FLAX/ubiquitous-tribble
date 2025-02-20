@@ -934,3 +934,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 03:44:18.532] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
 [20Feb2025 03:50:29.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ went up in flames
 [20Feb2025 03:50:29.864] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 03:52:23.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ fell from a high place
+[20Feb2025 03:52:24.294] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved

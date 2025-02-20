@@ -4307,6 +4307,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-02-20 03:55:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_crate": {
     "criteria": {
       "has_mangrove_planks": "2025-02-20 03:31:17 +0000"
@@ -4334,6 +4340,12 @@
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_result": "2025-02-20 03:37:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-20 03:55:21 +0000"
     },
     "done": true
   },
@@ -4427,6 +4439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-02-20 03:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-20 03:37:49 +0000"
@@ -4436,6 +4454,18 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_drawer": {
     "criteria": {
       "has_mangrove_planks": "2025-02-20 03:31:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-02-20 03:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-20 03:55:21 +0000"
     },
     "done": true
   },
@@ -4571,9 +4601,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-20 03:56:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_slab": {
     "criteria": {
       "has_planks": "2025-02-20 03:31:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-02-20 03:55:21 +0000"
     },
     "done": true
   },
