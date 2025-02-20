@@ -2676,3 +2676,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 21:32:53.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Hot Stuff]
 [20Feb2025 21:35:01.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Feb2025 21:35:01.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 21:40:01.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 21:40:01.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 21:45:01.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 21:45:01.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
