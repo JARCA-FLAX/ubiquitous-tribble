@@ -5317,6 +5317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-20 21:10:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-02-20 20:47:55 +0000"
@@ -5677,6 +5683,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-20 21:10:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-20 21:00:30 +0000"
@@ -5749,6 +5761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-20 21:05:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-02-20 19:42:35 +0000"
@@ -5764,6 +5782,12 @@
   "refurbished_furniture:recipes/decorations/blue_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-02-20 20:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-20 21:05:41 +0000"
     },
     "done": true
   },
@@ -5788,6 +5812,12 @@
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-02-20 20:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-20 21:05:41 +0000"
     },
     "done": true
   },
