@@ -322,3 +322,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 20:39:32.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
 [20Feb2025 20:39:33.126] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
 [20Feb2025 21:32:53.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Hot Stuff]
+[20Feb2025 22:03:53.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ moved wrongly!
