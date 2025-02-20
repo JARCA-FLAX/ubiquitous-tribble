@@ -323,3 +323,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 20:39:33.126] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
 [20Feb2025 21:32:53.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Hot Stuff]
 [20Feb2025 22:03:53.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ moved wrongly!
+[20Feb2025 22:11:38.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [What a Deal!]
+[20Feb2025 22:14:44.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ lost connection: Disconnected
+[20Feb2025 22:14:44.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ left the game
+[20Feb2025 22:14:44.539] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was unloaded
+[20Feb2025 22:14:48.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Feb2025 22:14:48.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Feb2025 22:14:48.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Feb2025 22:14:48.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Feb2025 22:14:49.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Feb2025 22:14:49.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Feb2025 22:14:49.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Feb2025 22:14:49.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Feb2025 22:14:49.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Feb2025 22:14:49.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Feb2025 22:14:49.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Feb2025 22:14:49.624] [Server thread/INFO] [Framework/]: Unloading server configs...
+[20Feb2025 22:14:49.626] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[20Feb2025 22:14:49.629] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[20Feb2025 22:14:49.630] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
