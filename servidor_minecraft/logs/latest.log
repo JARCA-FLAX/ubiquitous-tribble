@@ -891,3 +891,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 03:25:52.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set the time to 1000]
 [20Feb2025 03:25:58.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Spectator Mode]
 [20Feb2025 03:26:30.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[20Feb2025 03:33:23.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.2740456288756832
+[20Feb2025 03:33:23.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.9089544582825511
+[20Feb2025 03:33:23.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.2767493889755315
+[20Feb2025 03:33:24.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.4713254127318578
+[20Feb2025 03:33:28.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DauLuffy moved too quickly! 7.6813282327148045,-6.0,-6.836355068537614
+[20Feb2025 03:35:45.298] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[20Feb2025 03:36:06.506] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-56, z=2192}
+[20Feb2025 03:36:11.580] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-56, z=2208}
+[20Feb2025 03:36:11.676] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[20Feb2025 03:36:11.678] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[20Feb2025 03:36:11.679] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[20Feb2025 03:36:11.695] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-56, z=2192}
+[20Feb2025 03:36:14.563] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=-56, z=2188}
+[20Feb2025 03:36:14.683] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[20Feb2025 03:36:14.684] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2284}
+[20Feb2025 03:36:14.684] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[20Feb2025 03:36:14.684] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2286}
+[20Feb2025 03:36:14.684] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-24, y=-57, z=2292}
+[20Feb2025 03:36:14.684] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[20Feb2025 03:36:14.684] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2288}
+[20Feb2025 03:36:14.685] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[20Feb2025 03:36:14.685] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=2290}
+[20Feb2025 03:36:14.685] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-18, y=-57, z=2292}
+[20Feb2025 03:36:14.685] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-56, z=2205}
+[20Feb2025 03:36:14.686] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=-57, z=2208}
+[20Feb2025 03:36:14.795] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[20Feb2025 03:36:18.743] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[20Feb2025 03:36:18.756] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[20Feb2025 03:36:22.826] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-56, z=2188}
+[20Feb2025 03:36:28.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DauLuffy lost connection: Disconnected
+[20Feb2025 03:36:28.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy left the game
+[20Feb2025 03:36:28.985] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was unloaded
+[20Feb2025 03:37:37.292] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[20Feb2025 03:37:37.293] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[20Feb2025 03:37:37.293] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[20Feb2025 03:38:10.833] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[20Feb2025 03:38:10.833] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[20Feb2025 03:40:42.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.3691585467265668
+[20Feb2025 03:40:42.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.7554102311456745
