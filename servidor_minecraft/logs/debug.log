@@ -2486,3 +2486,50 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 18:53:17.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/11592, l='ServerLevel[world]', x=381.91, y=98.00, z=6654.93] died, message: 'Armorer was shot by Pillager'
 [20Feb2025 18:53:33.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/11519, l='ServerLevel[world]', x=345.37, y=85.00, z=6648.49] died, message: 'Shepherd was shot by Pillager'
 [20Feb2025 18:53:57.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/11522, l='ServerLevel[world]', x=327.51, y=85.00, z=6649.70] died, message: 'Fisherman was shot by Pillager'
+[20Feb2025 18:55:01.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 18:55:01.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 18:56:01.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
+[20Feb2025 18:56:02.099] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:366, y:68, z:6575, dim:minecraft:overworld]
+[20Feb2025 18:56:02.103] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 18:56:30.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
+[20Feb2025 18:56:31.016] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:383, y:70, z:6580, dim:minecraft:overworld]
+[20Feb2025 18:56:31.026] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 18:56:31.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/12887, l='ServerLevel[world]', x=297.97, y=99.00, z=6639.70] died, message: 'Fisherman was shot by Pillager'
+[20Feb2025 18:57:11.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Pillager
+[20Feb2025 18:57:11.617] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:393, y:68, z:6567, dim:minecraft:overworld]
+[20Feb2025 18:57:11.622] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 18:57:15.187] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/13901, l='ServerLevel[world]', x=302.47, y=95.00, z=6688.95] died, message: 'Armorer was slain by Vindicator'
+[20Feb2025 18:57:28.099] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/13821, l='ServerLevel[world]', x=307.51, y=102.05, z=6660.51] died, message: 'Mason was shot by Pillager'
+[20Feb2025 18:57:31.844] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/13775, l='ServerLevel[world]', x=293.17, y=102.38, z=6646.38] died, message: 'Butcher was shot by Pillager'
+[20Feb2025 18:57:48.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/13768, l='ServerLevel[world]', x=321.50, y=83.00, z=6622.35] died, message: 'Armorer was killed by Evoker using magic'
+[20Feb2025 18:57:50.843] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/13790, l='ServerLevel[world]', x=300.70, y=101.59, z=6649.46] died, message: 'Cleric was shot by Pillager'
+[20Feb2025 18:58:10.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has completed the challenge [Village Defender]
+[20Feb2025 18:58:43.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13788, l='ServerLevel[world]', x=291.40, y=101.00, z=6642.52] died, message: 'Unemployed was shot by Pillager'
+[20Feb2025 18:58:52.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
+[20Feb2025 18:58:53.068] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:333, y:82, z:6612, dim:minecraft:overworld]
+[20Feb2025 18:58:53.073] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 18:59:18.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
+[20Feb2025 18:59:19.580] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:333, y:81, z:6621, dim:minecraft:overworld]
+[20Feb2025 18:59:19.591] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 18:59:49.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
+[20Feb2025 18:59:49.882] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:332, y:82, z:6628, dim:minecraft:overworld]
+[20Feb2025 18:59:49.899] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 18:59:57.783] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/15430, l='ServerLevel[world]', x=306.40, y=102.00, z=6660.29] died, message: 'Armorer was slain by Vindicator'
+[20Feb2025 19:00:00.089] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/15399, l='ServerLevel[world]', x=306.30, y=107.00, z=6649.50] died, message: 'Fisherman was shot by Pillager'
+[20Feb2025 19:00:01.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 19:00:01.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 19:01:23.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
+[20Feb2025 19:01:24.325] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:308, y:97, z:6632, dim:minecraft:overworld]
+[20Feb2025 19:01:24.335] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:01:43.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
+[20Feb2025 19:01:44.149] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:311, y:98, z:6635, dim:minecraft:overworld]
+[20Feb2025 19:01:44.153] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:02:09.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
+[20Feb2025 19:02:10.329] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:312, y:98, z:6634, dim:minecraft:overworld]
+[20Feb2025 19:02:10.360] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:02:41.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
+[20Feb2025 19:02:41.726] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:316, y:100, z:6656, dim:minecraft:overworld]
+[20Feb2025 19:02:41.737] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 19:03:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
+[20Feb2025 19:03:23.415] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:315, y:99, z:6668, dim:minecraft:overworld]
+[20Feb2025 19:03:23.424] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
