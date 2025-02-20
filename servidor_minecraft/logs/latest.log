@@ -205,3 +205,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 01:19:18.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ joined the game
 [20Feb2025 01:19:18.833] [Server thread/INFO] [Jade/]: Syncing config to MUSA_JJ (c619e659-bb76-3139-a426-398946cf8ac4)
 [20Feb2025 01:19:20.940] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was loaded
+[20Feb2025 01:19:33.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DauLuffy[/10.144.101.34:51490] logged in with entity id 9490 at (2714.7083108791026, 113.0, 3913.7700236973697)
+[20Feb2025 01:19:33.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy joined the game
+[20Feb2025 01:19:33.860] [Server thread/INFO] [Jade/]: Syncing config to DauLuffy (98a18c82-c473-34f6-a10d-15a922221414)
+[20Feb2025 01:19:33.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2789, y=64, z=3827}
+[20Feb2025 01:19:33.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2789, y=64, z=3827}
+[20Feb2025 01:19:34.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2789, y=64, z=3827}
+[20Feb2025 01:19:34.871] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was loaded
+[20Feb2025 01:22:17.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Disconnected
+[20Feb2025 01:22:17.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
+[20Feb2025 01:22:17.565] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
+[20Feb2025 01:22:33.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:58337] logged in with entity id 10323 at (2762.332965919075, 67.0, 3828.3248461278563)
+[20Feb2025 01:22:33.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
+[20Feb2025 01:22:33.852] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
+[20Feb2025 01:22:34.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Acquire Hardware]
+[20Feb2025 01:22:35.198] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
+[20Feb2025 01:23:00.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2766, y=63, z=3804}
+[20Feb2025 01:23:20.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Isn't It Iron Pick]
+[20Feb2025 01:23:48.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Hunt and Gather]
+[20Feb2025 01:24:51.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Monster Hunter]
+[20Feb2025 01:25:17.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2766, y=63, z=3802} BlockPos{x=2766, y=63, z=3804}
+[20Feb2025 01:25:20.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2766, y=63, z=3802} BlockPos{x=2766, y=63, z=3804}
+[20Feb2025 01:25:59.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Suit Up]
+[20Feb2025 01:26:42.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Stone Age]
+[20Feb2025 01:27:08.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2770, y=64, z=3798} BlockPos{x=2786, y=64, z=3809}
+[20Feb2025 01:27:08.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2770, y=64, z=3798} BlockPos{x=2786, y=64, z=3809}
+[20Feb2025 01:27:08.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2770, y=64, z=3798} BlockPos{x=2786, y=64, z=3809}
+[20Feb2025 01:27:08.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2770, y=64, z=3798} BlockPos{x=2786, y=64, z=3809}
+[20Feb2025 01:27:08.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2770, y=64, z=3798} BlockPos{x=2786, y=64, z=3809}
+[20Feb2025 01:27:08.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2770, y=64, z=3798} BlockPos{x=2786, y=64, z=3809}
+[20Feb2025 01:27:09.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2770, y=64, z=3798} BlockPos{x=2787, y=64, z=3809}
+[20Feb2025 01:27:09.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2770, y=64, z=3798} BlockPos{x=2787, y=64, z=3809}
+[20Feb2025 01:27:09.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2770, y=64, z=3798} BlockPos{x=2787, y=64, z=3809}
+[20Feb2025 01:28:14.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Skeleton
+[20Feb2025 01:28:14.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Your First Grave]
+[20Feb2025 01:28:14.191] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 01:28:43.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Not Today, Thank You]
