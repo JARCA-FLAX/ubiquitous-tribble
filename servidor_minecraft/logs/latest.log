@@ -930,3 +930,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 03:38:10.833] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
 [20Feb2025 03:40:42.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.3691585467265668
 [20Feb2025 03:40:42.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.7554102311456745
+[20Feb2025 03:44:17.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Skeleton
+[20Feb2025 03:44:18.532] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 03:50:29.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ went up in flames
+[20Feb2025 03:50:29.864] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved

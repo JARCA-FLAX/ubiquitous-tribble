@@ -4529,6 +4529,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-02-20 03:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-20 03:31:17 +0000"
