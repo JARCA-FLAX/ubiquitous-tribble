@@ -241,3 +241,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 01:28:14.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Your First Grave]
 [20Feb2025 01:28:14.191] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
 [20Feb2025 01:28:43.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Not Today, Thank You]
+[20Feb2025 01:31:39.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Sweet Dreams]
+[20Feb2025 01:32:16.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set the world spawn point to 2828, 116, 4008 [0.0]]
+[20Feb2025 01:32:28.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DauLuffy> zzzzz
+[20Feb2025 01:32:33.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MUSA_JJ> zzzzzzzzzzzzzzzzzzzzzzzz
+[20Feb2025 01:32:40.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Disconnected
+[20Feb2025 01:32:40.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
+[20Feb2025 01:32:40.380] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
+[20Feb2025 01:32:58.227] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:49826] logged in with entity id 13592 at (2851.4070637930313, 89.0, 3734.4494860705613)
+[20Feb2025 01:32:58.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
+[20Feb2025 01:32:58.268] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
+[20Feb2025 01:32:59.623] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
+[20Feb2025 01:34:06.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was blown up by Creeper
+[20Feb2025 01:34:06.136] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[20Feb2025 01:35:39.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has reached the goal [Here They Come]
+[20Feb2025 01:36:13.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Cover Me with Diamonds]
+[20Feb2025 01:38:45.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Cover Me with Diamonds]
