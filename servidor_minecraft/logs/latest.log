@@ -257,3 +257,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Feb2025 01:35:39.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has reached the goal [Here They Come]
 [20Feb2025 01:36:13.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Cover Me with Diamonds]
 [20Feb2025 01:38:45.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Cover Me with Diamonds]
+[20Feb2025 01:43:11.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DauLuffy> zzzzzz
+[20Feb2025 01:44:58.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Ghost Riders In The Sky]
+[20Feb2025 01:45:16.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [A Strange Grave Dust]
+[20Feb2025 01:46:15.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Knowledge of Death]
+[20Feb2025 01:46:15.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Ashes 'n Bones]
+[20Feb2025 01:46:23.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Ghost Riders In The Sky]
+[20Feb2025 01:46:55.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Ghost Riders In The Sky]
+[20Feb2025 01:48:11.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was shot by Wither Skeleton
+[20Feb2025 01:48:11.775] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[20Feb2025 01:48:51.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has reached the goal [Strong or Careful]
+[20Feb2025 01:48:51.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy was shot by Wither Skeleton
+[20Feb2025 01:48:51.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has made the advancement [Your First Grave]
+[20Feb2025 01:48:51.073] [Server thread/INFO] [tombstone/]: The player DauLuffy has successfully been saved
+[20Feb2025 01:49:04.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DauLuffy was kicked for floating too long!
+[20Feb2025 01:49:04.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DauLuffy lost connection: Disconnected
+[20Feb2025 01:49:04.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy left the game
+[20Feb2025 01:49:04.077] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was unloaded
+[20Feb2025 01:49:04.118] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Feb2025 01:49:15.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DauLuffy[/10.144.101.34:51690] logged in with entity id 18778 at (2874.721460434263, 196.32476691508842, 3895.362145289773)
+[20Feb2025 01:49:15.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy joined the game
+[20Feb2025 01:49:15.588] [Server thread/INFO] [Jade/]: Syncing config to DauLuffy (98a18c82-c473-34f6-a10d-15a922221414)
+[20Feb2025 01:49:16.619] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was loaded
+[20Feb2025 01:49:22.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DauLuffy was kicked for floating too long!
+[20Feb2025 01:49:22.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DauLuffy lost connection: Flying is not enabled on this server
+[20Feb2025 01:49:22.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy left the game
+[20Feb2025 01:49:22.269] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was unloaded
+[20Feb2025 01:49:33.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DauLuffy[/10.144.101.34:51714] logged in with entity id 18812 at (2870.5, 209.3864180535498, 3897.5)
+[20Feb2025 01:49:33.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy joined the game
+[20Feb2025 01:49:33.698] [Server thread/INFO] [Jade/]: Syncing config to DauLuffy (98a18c82-c473-34f6-a10d-15a922221414)
+[20Feb2025 01:49:34.676] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was loaded
+[20Feb2025 01:49:40.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DauLuffy was kicked for floating too long!
+[20Feb2025 01:49:40.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DauLuffy lost connection: Flying is not enabled on this server
+[20Feb2025 01:49:40.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy left the game
+[20Feb2025 01:49:40.270] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was unloaded
+[20Feb2025 01:49:40.316] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Feb2025 01:49:50.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DauLuffy[/10.144.101.34:51722] logged in with entity id 18834 at (2881.376761228336, 194.66252248325654, 3894.074184551636)
+[20Feb2025 01:49:50.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy joined the game
+[20Feb2025 01:49:50.246] [Server thread/INFO] [Jade/]: Syncing config to DauLuffy (98a18c82-c473-34f6-a10d-15a922221414)
+[20Feb2025 01:49:51.219] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was loaded
