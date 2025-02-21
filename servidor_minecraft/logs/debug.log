@@ -2480,3 +2480,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Feb2025 03:17:54.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Feb2025 03:22:32.411] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=2891, y=100, z=4190}
 [21Feb2025 03:22:36.308] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=2891, y=102, z=4195}
+[21Feb2025 03:22:40.960] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=2890, y=101, z=4195}
+[21Feb2025 03:22:54.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 03:22:54.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 03:27:54.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 03:27:54.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 03:29:01.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ moved wrongly!
+[21Feb2025 03:29:02.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has reached the goal [Strong or Careful]
+[21Feb2025 03:29:02.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Wilted
+[21Feb2025 03:29:03.172] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2675, y:70, z:4182, dim:minecraft:overworld]
+[21Feb2025 03:29:03.185] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[21Feb2025 03:30:33.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Wilted
+[21Feb2025 03:30:33.783] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2652, y:72, z:4184, dim:minecraft:overworld]
+[21Feb2025 03:30:33.799] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[21Feb2025 03:32:54.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 03:32:54.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 03:32:58.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ moved wrongly!
+[21Feb2025 03:32:59.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Wilted
+[21Feb2025 03:32:59.934] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2724, y:93, z:4249, dim:minecraft:overworld]
+[21Feb2025 03:32:59.939] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[21Feb2025 03:36:47.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Wilted
+[21Feb2025 03:36:47.595] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2893, y:100, z:4180, dim:minecraft:overworld]
+[21Feb2025 03:36:47.604] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[21Feb2025 03:37:54.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 03:37:54.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
