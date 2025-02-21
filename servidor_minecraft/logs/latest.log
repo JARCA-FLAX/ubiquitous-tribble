@@ -197,3 +197,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Feb2025 21:24:07.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ joined the game
 [21Feb2025 21:24:07.275] [Server thread/INFO] [Jade/]: Syncing config to MUSA_JJ (c619e659-bb76-3139-a426-398946cf8ac4)
 [21Feb2025 21:24:08.954] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was loaded
+[21Feb2025 21:42:46.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Skeleton
+[21Feb2025 21:42:48.561] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[21Feb2025 21:42:48.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
