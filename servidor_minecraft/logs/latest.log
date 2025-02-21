@@ -205,3 +205,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Feb2025 21:54:25.565] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
 [21Feb2025 21:57:14.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Knowledge raises the soul]
 [21Feb2025 21:58:10.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has reached the goal [Die Classy]
+[21Feb2025 22:10:10.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Chest Slayer]

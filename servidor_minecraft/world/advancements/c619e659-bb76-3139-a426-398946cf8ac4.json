@@ -6571,6 +6571,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-02-21 22:01:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_desk": {
     "criteria": {
       "has_birch_planks": "2025-02-21 21:26:24 +0000"
@@ -6766,6 +6772,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-21 21:51:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2025-02-21 21:58:10 +0000"
     },
     "done": true
   },
