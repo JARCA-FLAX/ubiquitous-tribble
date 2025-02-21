@@ -1,61 +1,61 @@
-[20Feb2025 18:24:01.977] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[20Feb2025 18:24:01.982] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[20Feb2025 18:24:05.563] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[20Feb2025 18:24:05.685] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ubiquitous-tribble/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[20Feb2025 18:24:06.238] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[20Feb2025 18:24:06.240] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Feb2025 18:24:06.242] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Feb2025 18:24:06.243] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Feb2025 18:24:06.749] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[20Feb2025 18:24:06.751] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
-[20Feb2025 18:24:09.800] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[20Feb2025 18:24:09.967] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[20Feb2025 18:24:10.321] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 85 options available, 0 override(s) found
-[20Feb2025 18:24:10.334] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[20Feb2025 18:24:11.989] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20Feb2025 18:24:19.908] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zhe000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[20Feb2025 18:24:20.808] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[21Feb2025 02:02:00.317] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[21Feb2025 02:02:00.325] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[21Feb2025 02:02:01.448] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[21Feb2025 02:02:01.507] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ubiquitous-tribble/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[21Feb2025 02:02:01.949] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[21Feb2025 02:02:01.951] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Feb2025 02:02:01.953] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Feb2025 02:02:01.954] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Feb2025 02:02:02.307] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[21Feb2025 02:02:02.309] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[21Feb2025 02:02:04.749] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Feb2025 02:02:04.841] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[21Feb2025 02:02:05.061] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 85 options available, 0 override(s) found
+[21Feb2025 02:02:05.084] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Feb2025 02:02:06.618] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21Feb2025 02:02:13.942] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zhe000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[21Feb2025 02:02:14.914] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[20Feb2025 18:24:22.614] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[20Feb2025 18:24:22.615] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[20Feb2025 18:24:22.640] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[20Feb2025 18:24:22.641] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[20Feb2025 18:24:22.642] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[20Feb2025 18:24:22.643] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[20Feb2025 18:24:22.644] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[20Feb2025 18:24:22.645] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[20Feb2025 18:24:23.372] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[20Feb2025 18:24:23.374] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[20Feb2025 18:24:23.396] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[20Feb2025 18:24:27.554] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[20Feb2025 18:24:28.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[20Feb2025 18:24:29.063] [main/INFO] [journeymap/]: Initializing Packet Registries
-[20Feb2025 18:24:29.137] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[20Feb2025 18:24:29.138] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[20Feb2025 18:24:29.289] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[20Feb2025 18:24:29.389] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[20Feb2025 18:24:29.390] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[20Feb2025 18:24:29.409] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
-[20Feb2025 18:24:29.409] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue
-[20Feb2025 18:24:29.427] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[20Feb2025 18:24:29.461] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[20Feb2025 18:24:29.465] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[20Feb2025 18:24:29.467] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[20Feb2025 18:24:29.468] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[20Feb2025 18:24:29.469] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[20Feb2025 18:24:29.470] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at bl4ckscor3.mod.globalxp.compat.WailaDataProvider
-[20Feb2025 18:24:29.946] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Found status: BETA Current: 1.8.0 Target: 1.8.0
-[20Feb2025 18:24:29.947] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[20Feb2025 18:24:30.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.9 Target: 1.0.9
-[20Feb2025 18:24:30.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[20Feb2025 18:24:31.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[20Feb2025 18:24:31.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[20Feb2025 18:24:31.228] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.33
-[20Feb2025 18:24:33.521] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20Feb2025 18:24:36.046] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/assets/.mcassetsroot' uses unexpected schema
-[20Feb2025 18:24:36.046] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/data/.mcassetsroot' uses unexpected schema
-[20Feb2025 18:24:38.771] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
-[20Feb2025 18:24:39.652] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
+[21Feb2025 02:02:16.381] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[21Feb2025 02:02:16.387] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[21Feb2025 02:02:16.410] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[21Feb2025 02:02:16.412] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[21Feb2025 02:02:16.416] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[21Feb2025 02:02:16.417] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[21Feb2025 02:02:16.419] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[21Feb2025 02:02:16.428] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[21Feb2025 02:02:17.156] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[21Feb2025 02:02:17.156] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[21Feb2025 02:02:17.158] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[21Feb2025 02:02:21.220] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[21Feb2025 02:02:22.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[21Feb2025 02:02:22.726] [main/INFO] [journeymap/]: Initializing Packet Registries
+[21Feb2025 02:02:22.983] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[21Feb2025 02:02:22.985] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[21Feb2025 02:02:23.221] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[21Feb2025 02:02:23.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[21Feb2025 02:02:23.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[21Feb2025 02:02:23.331] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
+[21Feb2025 02:02:23.332] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue
+[21Feb2025 02:02:23.464] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[21Feb2025 02:02:23.514] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[21Feb2025 02:02:23.519] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[21Feb2025 02:02:23.521] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[21Feb2025 02:02:23.521] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[21Feb2025 02:02:23.523] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[21Feb2025 02:02:23.524] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at bl4ckscor3.mod.globalxp.compat.WailaDataProvider
+[21Feb2025 02:02:23.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Found status: BETA Current: 1.8.0 Target: 1.8.0
+[21Feb2025 02:02:23.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[21Feb2025 02:02:24.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.9 Target: 1.0.9
+[21Feb2025 02:02:24.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[21Feb2025 02:02:24.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[21Feb2025 02:02:24.448] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Feb2025 02:02:24.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.33
+[21Feb2025 02:02:27.212] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21Feb2025 02:02:29.852] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/assets/.mcassetsroot' uses unexpected schema
+[21Feb2025 02:02:29.852] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/data/.mcassetsroot' uses unexpected schema
+[21Feb2025 02:02:32.380] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
+[21Feb2025 02:02:33.278] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -107,7 +107,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[20Feb2025 18:24:39.920] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide
+[21Feb2025 02:02:33.599] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23174!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23174!/:?]
@@ -140,205 +140,60 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 18:24:40.082] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 18 recipes
-[20Feb2025 18:24:40.342] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3409 advancements
-[20Feb2025 18:24:40.356] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[20Feb2025 18:24:40.362] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[20Feb2025 18:24:42.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[20Feb2025 18:24:42.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[20Feb2025 18:24:42.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[20Feb2025 18:24:42.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[20Feb2025 18:24:42.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[20Feb2025 18:24:42.658] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[20Feb2025 18:24:42.783] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20Feb2025 18:24:42.784] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[20Feb2025 18:24:42.784] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20Feb2025 18:24:42.785] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[20Feb2025 18:24:42.818] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[20Feb2025 18:24:42.819] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[20Feb2025 18:24:42.820] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[20Feb2025 18:24:42.919] [Server thread/INFO] [Framework/]: Loading server configs...
-[20Feb2025 18:24:42.946] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[20Feb2025 18:24:42.947] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[20Feb2025 18:24:43.007] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[20Feb2025 18:24:43.008] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[20Feb2025 18:24:43.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[20Feb2025 18:24:44.910] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
-[20Feb2025 18:24:44.913] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
-[20Feb2025 18:24:44.914] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
-[20Feb2025 18:24:49.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[20Feb2025 18:24:56.258] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:56.319] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:56.386] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:56.386] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:56.402] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:56.425] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:56.439] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:57.046] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:57.048] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:57.058] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:57.098] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:57.110] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:57.111] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:57.113] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:57.133] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:57.156] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:57.712] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:57.948] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:58.457] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:58.952] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:59.455] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:24:59.968] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 18:25:00.448] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[20Feb2025 18:25:00.947] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
-[20Feb2025 18:25:01.447] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[20Feb2025 18:25:01.610] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12164 ms
-[20Feb2025 18:25:01.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.809s)! For help, type "help"
-[20Feb2025 18:25:01.815] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[20Feb2025 18:26:31.136] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[20Feb2025 18:26:31.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MUSA_JJ[/10.144.29.48:52394] logged in with entity id 422 at (750.6057190369551, 76.0, 4653.281604023532)
-[20Feb2025 18:26:31.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ joined the game
-[20Feb2025 18:26:31.418] [Server thread/INFO] [Jade/]: Syncing config to MUSA_JJ (c619e659-bb76-3139-a426-398946cf8ac4)
-[20Feb2025 18:26:33.209] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was loaded
-[20Feb2025 18:35:36.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Voluntary Exile]
-[20Feb2025 18:40:57.696] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/6377, l='ServerLevel[world]', x=364.53, y=71.00, z=6590.24] died, message: 'Fisherman was shot by Pillager'
-[20Feb2025 18:41:13.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has reached the goal [Fortuitous Militia]
-[20Feb2025 18:43:57.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
-[20Feb2025 18:43:58.840] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 18:44:49.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
-[20Feb2025 18:44:50.298] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 18:46:10.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/8569, l='ServerLevel[world]', x=378.83, y=75.02, z=6600.83] died, message: 'Butcher was slain by Vindicator'
-[20Feb2025 18:46:23.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
-[20Feb2025 18:46:24.528] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 18:47:18.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
-[20Feb2025 18:47:19.586] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 18:47:55.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Pillager
-[20Feb2025 18:47:55.838] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 18:48:29.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
-[20Feb2025 18:48:30.463] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 18:48:34.533] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/10532, l='ServerLevel[world]', x=337.70, y=82.00, z=6622.49] died, message: 'Fisherman was slain by Ravager'
-[20Feb2025 18:48:40.583] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/10531, l='ServerLevel[world]', x=333.70, y=83.75, z=6630.47] died, message: 'Nitwit was slain by Ravager'
-[20Feb2025 18:48:47.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has reached the goal [Discreet Search]
-[20Feb2025 18:51:45.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
-[20Feb2025 18:51:46.385] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 18:52:48.146] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/11609, l='ServerLevel[world]', x=400.56, y=101.25, z=6657.73] died, message: 'Cartographer was slain by Vex'
-[20Feb2025 18:52:56.337] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/11595, l='ServerLevel[world]', x=371.13, y=94.00, z=6653.87] died, message: 'Weaponsmith was slain by Vindicator'
-[20Feb2025 18:53:01.239] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/11594, l='ServerLevel[world]', x=370.41, y=95.03, z=6642.42] died, message: 'Armorer was slain by Vindicator'
-[20Feb2025 18:53:06.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/11593, l='ServerLevel[world]', x=384.00, y=98.00, z=6652.27] died, message: 'Cartographer was shot by Pillager'
-[20Feb2025 18:53:17.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/11592, l='ServerLevel[world]', x=381.91, y=98.00, z=6654.93] died, message: 'Armorer was shot by Pillager'
-[20Feb2025 18:53:33.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/11519, l='ServerLevel[world]', x=345.37, y=85.00, z=6648.49] died, message: 'Shepherd was shot by Pillager'
-[20Feb2025 18:53:57.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/11522, l='ServerLevel[world]', x=327.51, y=85.00, z=6649.70] died, message: 'Fisherman was shot by Pillager'
-[20Feb2025 18:56:01.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
-[20Feb2025 18:56:02.103] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 18:56:30.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
-[20Feb2025 18:56:31.026] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 18:56:31.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/12887, l='ServerLevel[world]', x=297.97, y=99.00, z=6639.70] died, message: 'Fisherman was shot by Pillager'
-[20Feb2025 18:57:11.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Pillager
-[20Feb2025 18:57:11.622] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 18:57:15.187] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/13901, l='ServerLevel[world]', x=302.47, y=95.00, z=6688.95] died, message: 'Armorer was slain by Vindicator'
-[20Feb2025 18:57:28.099] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/13821, l='ServerLevel[world]', x=307.51, y=102.05, z=6660.51] died, message: 'Mason was shot by Pillager'
-[20Feb2025 18:57:31.844] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/13775, l='ServerLevel[world]', x=293.17, y=102.38, z=6646.38] died, message: 'Butcher was shot by Pillager'
-[20Feb2025 18:57:48.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/13768, l='ServerLevel[world]', x=321.50, y=83.00, z=6622.35] died, message: 'Armorer was killed by Evoker using magic'
-[20Feb2025 18:57:50.843] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/13790, l='ServerLevel[world]', x=300.70, y=101.59, z=6649.46] died, message: 'Cleric was shot by Pillager'
-[20Feb2025 18:58:10.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has completed the challenge [Village Defender]
-[20Feb2025 18:58:43.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13788, l='ServerLevel[world]', x=291.40, y=101.00, z=6642.52] died, message: 'Unemployed was shot by Pillager'
-[20Feb2025 18:58:52.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
-[20Feb2025 18:58:53.073] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 18:59:18.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
-[20Feb2025 18:59:19.591] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 18:59:49.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
-[20Feb2025 18:59:49.899] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 18:59:57.783] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/15430, l='ServerLevel[world]', x=306.40, y=102.00, z=6660.29] died, message: 'Armorer was slain by Vindicator'
-[20Feb2025 19:00:00.089] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/15399, l='ServerLevel[world]', x=306.30, y=107.00, z=6649.50] died, message: 'Fisherman was shot by Pillager'
-[20Feb2025 19:01:23.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vindicator
-[20Feb2025 19:01:24.335] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:01:43.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
-[20Feb2025 19:01:44.153] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:02:09.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
-[20Feb2025 19:02:10.360] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:02:41.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
-[20Feb2025 19:02:41.737] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:03:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
-[20Feb2025 19:03:23.424] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:04:41.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
-[20Feb2025 19:04:42.400] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:05:15.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
-[20Feb2025 19:05:15.731] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:05:57.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
-[20Feb2025 19:05:58.378] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:06:14.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
-[20Feb2025 19:06:14.966] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:07:08.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
-[20Feb2025 19:07:08.830] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:07:26.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
-[20Feb2025 19:07:26.393] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:07:57.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was doomed to fall by Ravager
-[20Feb2025 19:07:58.353] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:08:30.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Ravager
-[20Feb2025 19:08:31.509] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:08:45.438] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/21059, l='ServerLevel[world]', x=372.83, y=96.02, z=6657.55] died, message: 'Armorer was slain by Vex'
-[20Feb2025 19:10:20.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
-[20Feb2025 19:10:21.035] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:11:03.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Vex
-[20Feb2025 19:11:04.460] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:13:51.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Pillager
-[20Feb2025 19:13:51.699] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 19:15:00.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has completed the challenge [Hero of the Village]
-[20Feb2025 19:21:05.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.4042643852317269
-[20Feb2025 19:21:05.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.508943435490437
-[20Feb2025 19:21:05.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.508943435490437
-[20Feb2025 19:21:05.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.508943435490437
-[20Feb2025 19:42:59.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ blew up
-[20Feb2025 19:43:00.182] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 20:03:29.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.31892543042613397
-[20Feb2025 20:03:29.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.6492103168905032
-[20Feb2025 20:03:29.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved wrongly! 0.9831857770684564
-[20Feb2025 20:09:12.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved too quickly! 9.56541997072145,3.0,0.3420651117075977
-[20Feb2025 20:09:12.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved too quickly! 9.963654062717524,3.0,0.36675251453198143
-[20Feb2025 20:09:12.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved too quickly! 10.360652666432543,4.0,0.4090656629150544
-[20Feb2025 20:09:12.902] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-53, z=1724}
-[20Feb2025 20:11:49.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved too quickly! 7.931534607334015,0.0,-6.110683164520196
-[20Feb2025 20:11:49.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved too quickly! 8.248795990937651,0.0,-6.355110492073436
-[20Feb2025 20:11:49.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camel (vehicle of MUSA_JJ) moved too quickly! 8.566057374541288,0.0,-6.599537819626676
-[20Feb2025 20:20:20.252] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=626}
-[20Feb2025 20:20:20.253] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=626}
-[20Feb2025 20:20:21.819] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=618}
-[20Feb2025 20:20:21.819] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=618}
-[20Feb2025 20:34:44.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Skeleton
-[20Feb2025 20:34:44.691] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 20:35:52.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Cover Me with Diamonds]
-[20Feb2025 20:36:08.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Husk
-[20Feb2025 20:36:09.109] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 20:36:32.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Husk
-[20Feb2025 20:36:33.284] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 20:36:45.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Husk
-[20Feb2025 20:36:45.884] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 20:37:16.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Husk
-[20Feb2025 20:37:17.319] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 20:38:01.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Skeleton
-[20Feb2025 20:38:02.061] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 20:38:48.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
-[20Feb2025 20:38:48.994] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 20:39:32.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
-[20Feb2025 20:39:33.126] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
-[20Feb2025 21:32:53.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Hot Stuff]
-[20Feb2025 22:03:53.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ moved wrongly!
-[20Feb2025 22:11:38.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [What a Deal!]
-[20Feb2025 22:14:44.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ lost connection: Disconnected
-[20Feb2025 22:14:44.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ left the game
-[20Feb2025 22:14:44.539] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was unloaded
-[20Feb2025 22:14:48.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[20Feb2025 22:14:48.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[20Feb2025 22:14:48.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[20Feb2025 22:14:48.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[20Feb2025 22:14:49.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20Feb2025 22:14:49.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20Feb2025 22:14:49.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20Feb2025 22:14:49.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20Feb2025 22:14:49.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20Feb2025 22:14:49.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20Feb2025 22:14:49.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[20Feb2025 22:14:49.624] [Server thread/INFO] [Framework/]: Unloading server configs...
-[20Feb2025 22:14:49.626] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[20Feb2025 22:14:49.629] [Server thread/INFO] [Framework/]: Finished unloading server configs
-[20Feb2025 22:14:49.630] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[21Feb2025 02:02:33.728] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 18 recipes
+[21Feb2025 02:02:33.948] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3409 advancements
+[21Feb2025 02:02:33.960] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[21Feb2025 02:02:33.968] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[21Feb2025 02:02:36.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[21Feb2025 02:02:36.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Feb2025 02:02:36.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Feb2025 02:02:36.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Feb2025 02:02:36.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Feb2025 02:02:36.318] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Feb2025 02:02:36.409] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Feb2025 02:02:36.409] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Feb2025 02:02:36.410] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Feb2025 02:02:36.410] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Feb2025 02:02:36.432] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[21Feb2025 02:02:36.435] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[21Feb2025 02:02:36.514] [Server thread/INFO] [Framework/]: Loading server configs...
+[21Feb2025 02:02:36.535] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[21Feb2025 02:02:36.536] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[21Feb2025 02:02:36.565] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[21Feb2025 02:02:36.565] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[21Feb2025 02:02:36.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Feb2025 02:02:38.512] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[21Feb2025 02:02:38.513] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[21Feb2025 02:02:38.513] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[21Feb2025 02:02:42.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Feb2025 02:02:50.218] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:50.256] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:50.268] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:50.285] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:50.314] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:50.391] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:50.481] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:50.513] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:52.712] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:52.716] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:52.716] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:52.717] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:52.717] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:52.719] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:52.719] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:52.720] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:52.722] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:52.723] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:52.723] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:52.724] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:52.876] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 02:02:53.374] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[21Feb2025 02:02:53.874] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 59%
+[21Feb2025 02:02:54.383] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11510 ms
+[21Feb2025 02:02:54.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.959s)! For help, type "help"
+[21Feb2025 02:02:54.532] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Feb2025 02:03:41.011] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[21Feb2025 02:03:41.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MUSA_JJ[/10.144.29.48:50709] logged in with entity id 482 at (2891.5, 100.0, 4175.5)
+[21Feb2025 02:03:41.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ joined the game
+[21Feb2025 02:03:41.417] [Server thread/INFO] [Jade/]: Syncing config to MUSA_JJ (c619e659-bb76-3139-a426-398946cf8ac4)
+[21Feb2025 02:03:43.214] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was loaded
