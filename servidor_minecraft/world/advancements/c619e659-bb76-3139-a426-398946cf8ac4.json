@@ -2018,6 +2018,7 @@
       "minecraft:witch": "2025-02-20 02:02:59 +0000",
       "minecraft:wither_skeleton": "2025-02-20 01:57:33 +0000",
       "minecraft:husk": "2025-02-20 19:45:34 +0000",
+      "minecraft:cave_spider": "2025-02-21 22:19:54 +0000",
       "minecraft:vex": "2025-02-20 18:58:48 +0000",
       "minecraft:zombie": "2025-02-20 01:24:51 +0000"
     },
@@ -6565,6 +6566,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-02-21 22:19:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-21 21:33:56 +0000"
@@ -6832,6 +6839,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-21 21:51:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-02-21 22:19:15 +0000"
     },
     "done": true
   },

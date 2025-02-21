@@ -2483,3 +2483,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Feb2025 22:19:14.229] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
 [21Feb2025 22:19:15.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [The Most Useful Key]
 [21Feb2025 22:19:20.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has reached the goal [A Fast Comeback]
+[21Feb2025 22:22:56.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 22:22:56.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 22:24:28.358] [Worker-Main-21/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21Feb2025 22:27:56.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 22:27:56.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
