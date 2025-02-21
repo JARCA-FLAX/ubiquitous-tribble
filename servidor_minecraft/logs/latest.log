@@ -200,3 +200,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Feb2025 21:42:46.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was shot by Skeleton
 [21Feb2025 21:42:48.561] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
 [21Feb2025 21:42:48.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[21Feb2025 21:54:24.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ moved too quickly! -0.20793676605899236,10.107336323216735,1.2810088826117862
+[21Feb2025 21:54:24.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Wilted
+[21Feb2025 21:54:25.565] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[21Feb2025 21:57:14.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Knowledge raises the soul]
+[21Feb2025 21:58:10.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has reached the goal [Die Classy]
