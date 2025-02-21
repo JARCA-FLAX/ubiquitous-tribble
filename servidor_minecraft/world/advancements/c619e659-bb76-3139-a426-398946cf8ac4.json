@@ -5995,6 +5995,14 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-02-21 03:55:48 +0000",
+      "wheat": "2025-02-21 03:55:33 +0000",
+      "carrot": "2025-02-21 03:55:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-02-21 02:18:37 +0000"
@@ -6274,6 +6282,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-21 02:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-21 03:55:33 +0000"
     },
     "done": true
   },
