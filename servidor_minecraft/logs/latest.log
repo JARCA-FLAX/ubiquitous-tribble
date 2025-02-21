@@ -197,3 +197,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Feb2025 02:03:41.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ joined the game
 [21Feb2025 02:03:41.417] [Server thread/INFO] [Jade/]: Syncing config to MUSA_JJ (c619e659-bb76-3139-a426-398946cf8ac4)
 [21Feb2025 02:03:43.214] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was loaded
+[21Feb2025 02:56:51.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Bonfire Lit]
