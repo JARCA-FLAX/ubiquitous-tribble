@@ -27,7 +27,9 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-02-19 21:15:05 +0000",
       "minecraft:taiga": "2025-02-19 21:11:46 +0000",
+      "minecraft:deep_ocean": "2025-02-22 04:46:29 +0000",
       "minecraft:cherry_grove": "2025-02-19 23:04:44 +0000",
+      "minecraft:birch_forest": "2025-02-22 04:35:40 +0000",
       "minecraft:savanna_plateau": "2025-02-19 22:03:55 +0000",
       "minecraft:beach": "2025-02-19 20:51:10 +0000",
       "minecraft:dark_forest": "2025-02-19 21:20:26 +0000",
@@ -45,6 +47,7 @@
       "minecraft:ocean": "2025-02-19 23:01:41 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-19 21:17:12 +0000",
       "minecraft:snowy_beach": "2025-02-19 20:48:08 +0000",
+      "minecraft:windswept_savanna": "2025-02-22 04:53:55 +0000",
       "minecraft:meadow": "2025-02-19 22:00:13 +0000",
       "minecraft:savanna": "2025-02-19 22:12:39 +0000",
       "minecraft:plains": "2025-02-19 22:00:07 +0000"
@@ -188,6 +191,7 @@
       "cooked_mutton": "2025-02-19 20:52:34 +0000",
       "cooked_beef": "2025-02-19 22:22:41 +0000",
       "beef": "2025-02-19 23:33:55 +0000",
+      "baked_potato": "2025-02-22 04:50:50 +0000",
       "apple": "2025-02-20 03:23:25 +0000",
       "potato": "2025-02-20 02:33:43 +0000",
       "bread": "2025-02-20 01:48:03 +0000"
@@ -1320,9 +1324,11 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-19 22:13:39 +0000",
       "minecraft:ravager": "2025-02-20 02:42:34 +0000",
+      "minecraft:guardian": "2025-02-22 04:48:31 +0000",
       "minecraft:spider": "2025-02-19 22:20:17 +0000",
       "minecraft:creeper": "2025-02-20 02:43:07 +0000",
       "minecraft:wither_skeleton": "2025-02-20 01:56:58 +0000",
+      "minecraft:enderman": "2025-02-22 05:00:53 +0000",
       "minecraft:zombie": "2025-02-19 21:16:18 +0000"
     },
     "done": false
@@ -4321,18 +4327,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-22 04:26:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-02-22 04:26:20 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-02-22 04:22:36 +0000"
@@ -4387,9 +4381,87 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-22 04:26:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-02-22 04:26:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-02-22 04:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-22 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-22 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-22 04:44:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-22 04:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-22 04:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-02-22 04:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-22 04:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-22 04:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-22 04:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-22 04:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-02-22 05:03:09 +0000"
     },
     "done": true
   },

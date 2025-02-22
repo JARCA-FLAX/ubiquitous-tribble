@@ -196,3 +196,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [22Feb2025 03:57:40.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
 [22Feb2025 03:57:40.998] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
 [22Feb2025 03:57:43.331] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
+[22Feb2025 04:35:25.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CAMUS) moved wrongly! 0.2726922740275768
+[22Feb2025 04:35:25.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CAMUS) moved wrongly! 0.5812032035473749
+[22Feb2025 04:35:25.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CAMUS) moved wrongly! 0.8391838928018842
+[22Feb2025 04:35:25.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CAMUS) moved wrongly! 1.1018035554106973
+[22Feb2025 04:35:26.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CAMUS) moved wrongly! 0.44819594422642695
+[22Feb2025 04:35:26.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CAMUS) moved wrongly! 0.6645159906474873
+[22Feb2025 04:51:46.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS was slain by Wilted
+[22Feb2025 04:51:46.955] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[22Feb2025 04:56:47.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Disconnected
+[22Feb2025 04:56:47.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
+[22Feb2025 04:56:47.682] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
+[22Feb2025 04:57:13.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:63493] logged in with entity id 16721 at (2186.1861813276128, 63.0, 6326.72528940143)
+[22Feb2025 04:57:13.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
+[22Feb2025 04:57:13.163] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
+[22Feb2025 04:57:14.488] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
+[22Feb2025 04:57:25.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Disconnected
+[22Feb2025 04:57:25.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
+[22Feb2025 04:57:25.437] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
+[22Feb2025 04:58:17.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:64347] logged in with entity id 16883 at (2186.5385364927115, 63.0, 6327.095647839911)
+[22Feb2025 04:58:17.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
+[22Feb2025 04:58:17.502] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
+[22Feb2025 04:58:18.791] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
+[22Feb2025 05:07:42.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DauLuffy[/10.144.101.34:55696] logged in with entity id 21616 at (2716.8357806317126, 114.0, 3895.838690053756)
+[22Feb2025 05:07:42.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy joined the game
+[22Feb2025 05:07:43.044] [Server thread/INFO] [Jade/]: Syncing config to DauLuffy (98a18c82-c473-34f6-a10d-15a922221414)
+[22Feb2025 05:07:44.906] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was loaded
+[22Feb2025 05:07:59.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DauLuffy> me avisas cuando te salgas
+[22Feb2025 05:08:03.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DauLuffy> para apagar
+[22Feb2025 05:08:42.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DauLuffy lost connection: Disconnected
+[22Feb2025 05:08:42.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy left the game
+[22Feb2025 05:08:42.036] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was unloaded
+[22Feb2025 05:14:02.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [What Happens in Las Vegas...]
