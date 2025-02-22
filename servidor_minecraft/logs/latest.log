@@ -228,3 +228,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [22Feb2025 05:08:42.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy left the game
 [22Feb2025 05:08:42.036] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was unloaded
 [22Feb2025 05:14:02.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [What Happens in Las Vegas...]
+[22Feb2025 05:19:05.582] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[22Feb2025 05:19:05.584] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[22Feb2025 05:19:05.602] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[22Feb2025 05:19:05.606] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[22Feb2025 05:19:05.810] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[22Feb2025 05:19:05.811] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[22Feb2025 05:19:06.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5319ms or 106 ticks behind
+[22Feb2025 05:21:05.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS has made the advancement [Ice Bucket Challenge]
+[22Feb2025 05:26:06.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Disconnected
+[22Feb2025 05:26:06.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
+[22Feb2025 05:26:06.379] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
