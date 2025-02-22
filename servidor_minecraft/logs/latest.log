@@ -239,3 +239,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [22Feb2025 05:26:06.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Disconnected
 [22Feb2025 05:26:06.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
 [22Feb2025 05:26:06.379] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
+[22Feb2025 05:40:31.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Feb2025 05:40:31.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Feb2025 05:40:31.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Feb2025 05:40:31.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Feb2025 05:40:31.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Feb2025 05:40:31.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Feb2025 05:40:31.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Feb2025 05:40:31.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Feb2025 05:40:31.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Feb2025 05:40:31.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Feb2025 05:40:31.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Feb2025 05:40:31.830] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Feb2025 05:40:31.839] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[22Feb2025 05:40:31.841] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[22Feb2025 05:40:31.843] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
