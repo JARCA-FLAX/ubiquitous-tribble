@@ -1330,6 +1330,7 @@
       "minecraft:guardian": "2025-02-22 04:48:31 +0000",
       "minecraft:spider": "2025-02-19 22:20:17 +0000",
       "minecraft:creeper": "2025-02-20 02:43:07 +0000",
+      "minecraft:phantom": "2025-02-25 02:10:01 +0000",
       "minecraft:wither_skeleton": "2025-02-20 01:56:58 +0000",
       "minecraft:enderman": "2025-02-22 05:00:53 +0000",
       "minecraft:zombie": "2025-02-19 21:16:18 +0000"
@@ -4582,6 +4583,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-25 01:51:57 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-02-25 01:52:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-02-25 01:57:29 +0000"
@@ -4603,12 +4616,6 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
     "criteria": {
       "has_acacia_planks": "2025-02-25 01:57:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-02-25 01:51:57 +0000"
     },
     "done": true
   },
@@ -4651,12 +4658,6 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
     "criteria": {
       "has_acacia_planks": "2025-02-25 01:57:29 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_heavenly_challenger": {
-    "criteria": {
-      "location0": "2025-02-25 01:52:52 +0000"
     },
     "done": true
   },
@@ -4717,6 +4718,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-02-25 01:57:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2025-02-25 02:06:35 +0000"
     },
     "done": true
   },

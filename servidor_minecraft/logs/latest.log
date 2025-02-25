@@ -335,3 +335,67 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [25Feb2025 02:07:13.646] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
 [25Feb2025 02:10:26.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bosxxter was burnt to a crisp whilst fighting Wither Skeleton
 [25Feb2025 02:10:26.996] [Server thread/INFO] [tombstone/]: The player Bosxxter has successfully been saved
+[25Feb2025 02:10:56.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bosxxter lost connection: Disconnected
+[25Feb2025 02:10:56.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bosxxter left the game
+[25Feb2025 02:10:56.101] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7b51aae5-870e-3140-a172-d6933041ea66 was unloaded
+[25Feb2025 02:11:14.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS fell from a high place
+[25Feb2025 02:11:14.456] [Server thread/INFO] [tombstone/]: The player CAMUS has successfully been saved
+[25Feb2025 02:11:31.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[25Feb2025 02:11:31.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Flying is not enabled on this server
+[25Feb2025 02:11:31.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
+[25Feb2025 02:11:31.190] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
+[25Feb2025 02:11:36.848] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bosxxter[/10.144.217.97:53235] logged in with entity id 41018 at (2832.5, 116.0, 4009.5)
+[25Feb2025 02:11:36.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bosxxter joined the game
+[25Feb2025 02:11:36.888] [Server thread/INFO] [Jade/]: Syncing config to Bosxxter (7b51aae5-870e-3140-a172-d6933041ea66)
+[25Feb2025 02:11:38.110] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7b51aae5-870e-3140-a172-d6933041ea66 was loaded
+[25Feb2025 02:11:42.259] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:62351] logged in with entity id 41185 at (1935.5854738202017, 89.68555116088763, 4915.975820638438)
+[25Feb2025 02:11:42.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
+[25Feb2025 02:11:42.310] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
+[25Feb2025 02:11:43.561] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
+[25Feb2025 02:12:17.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CAMUS> me mori
+[25Feb2025 02:14:36.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CAMUS> don tas
+[25Feb2025 02:15:58.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CAMUS> don tas
+[25Feb2025 02:16:08.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CAMUS> me wa desconectar
+[25Feb2025 02:16:12.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CAMUS> fast
+[25Feb2025 02:16:27.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was burnt to a crisp whilst fighting Wither Skeleton
+[25Feb2025 02:16:27.538] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[25Feb2025 02:16:56.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was doomed to fall
+[25Feb2025 02:16:56.750] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[25Feb2025 02:17:58.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CAMUS> arriba
+[25Feb2025 02:18:22.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CAMUS> listo reyna
+[25Feb2025 02:18:28.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Disconnected
+[25Feb2025 02:18:28.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
+[25Feb2025 02:18:28.949] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
+[25Feb2025 02:18:38.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was burnt to a crisp whilst fighting Wither Skeleton
+[25Feb2025 02:18:39.538] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[25Feb2025 02:19:04.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ was kicked for floating too long!
+[25Feb2025 02:19:04.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ lost connection: Flying is not enabled on this server
+[25Feb2025 02:19:04.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ left the game
+[25Feb2025 02:19:04.389] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was unloaded
+[25Feb2025 02:19:59.437] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e796255[id=<null>,name=MUSA_JJ,properties={},legacy=false] (/10.144.29.48:61579) lost connection: Disconnected
+[25Feb2025 02:20:50.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MUSA_JJ[/10.144.29.48:61585] logged in with entity id 46654 at (1912.6508340353391, 88.0539720309893, 4848.803123127078)
+[25Feb2025 02:20:50.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ joined the game
+[25Feb2025 02:20:50.348] [Server thread/INFO] [Jade/]: Syncing config to MUSA_JJ (c619e659-bb76-3139-a426-398946cf8ac4)
+[25Feb2025 02:20:51.358] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was loaded
+[25Feb2025 02:22:04.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
+[25Feb2025 02:22:04.895] [Server thread/INFO] [tombstone/]: The player Bosxxter has successfully been saved
+[25Feb2025 02:22:09.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2836, y=116, z=4013}
+[25Feb2025 02:22:36.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bosxxter lost connection: Disconnected
+[25Feb2025 02:22:36.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bosxxter left the game
+[25Feb2025 02:22:36.544] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7b51aae5-870e-3140-a172-d6933041ea66 was unloaded
+[25Feb2025 02:22:46.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bosxxter[/10.144.217.97:53797] logged in with entity id 47494 at (2837.5, 117.0, 4013.5)
+[25Feb2025 02:22:46.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bosxxter joined the game
+[25Feb2025 02:22:46.785] [Server thread/INFO] [Jade/]: Syncing config to Bosxxter (7b51aae5-870e-3140-a172-d6933041ea66)
+[25Feb2025 02:22:48.009] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7b51aae5-870e-3140-a172-d6933041ea66 was loaded
+[25Feb2025 02:27:37.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bosxxter fell from a high place
+[25Feb2025 02:27:37.068] [Server thread/INFO] [tombstone/]: The player Bosxxter has successfully been saved
+[25Feb2025 02:28:02.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bosxxter lost connection: Timed out
+[25Feb2025 02:28:02.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bosxxter left the game
+[25Feb2025 02:28:02.313] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7b51aae5-870e-3140-a172-d6933041ea66 was unloaded
+[25Feb2025 02:28:25.790] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e554607[id=<null>,name=Bosxxter,properties={},legacy=false] (/10.144.217.97:54069) lost connection: Disconnected
+[25Feb2025 02:28:33.088] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b377923[id=<null>,name=Bosxxter,properties={},legacy=false] (/10.144.217.97:54086) lost connection: Disconnected
+[25Feb2025 02:29:02.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bosxxter[/10.144.217.97:54123] logged in with entity id 52482 at (1969.7947745896852, 103.79938376985068, 4887.326464587945)
+[25Feb2025 02:29:02.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bosxxter joined the game
+[25Feb2025 02:29:02.553] [Server thread/INFO] [Jade/]: Syncing config to Bosxxter (7b51aae5-870e-3140-a172-d6933041ea66)
+[25Feb2025 02:29:03.812] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7b51aae5-870e-3140-a172-d6933041ea66 was loaded
+[25Feb2025 02:29:45.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bosxxter has made the advancement [Sweet Dreams]
