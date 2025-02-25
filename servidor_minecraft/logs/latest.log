@@ -410,3 +410,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [25Feb2025 02:57:22.623] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
 [25Feb2025 02:58:09.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Wilted
 [25Feb2025 02:58:09.816] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[25Feb2025 03:43:32.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ lost connection: Disconnected
+[25Feb2025 03:43:32.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ left the game
+[25Feb2025 03:43:32.237] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was unloaded
