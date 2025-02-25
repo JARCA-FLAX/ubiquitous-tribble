@@ -399,3 +399,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [25Feb2025 02:29:02.553] [Server thread/INFO] [Jade/]: Syncing config to Bosxxter (7b51aae5-870e-3140-a172-d6933041ea66)
 [25Feb2025 02:29:03.812] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7b51aae5-870e-3140-a172-d6933041ea66 was loaded
 [25Feb2025 02:29:45.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bosxxter has made the advancement [Sweet Dreams]
+[25Feb2025 02:34:16.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bosxxter lost connection: Disconnected
+[25Feb2025 02:34:16.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bosxxter left the game
+[25Feb2025 02:34:16.447] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7b51aae5-870e-3140-a172-d6933041ea66 was unloaded
+[25Feb2025 02:38:55.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MUSA_JJ> FUI AL BAÑO
