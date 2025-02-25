@@ -4886,3 +4886,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [25Feb2025 02:46:09.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Feb2025 02:51:09.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Feb2025 02:51:09.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Feb2025 02:51:47.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ has made the advancement [Ice Bucket Challenge]
+[25Feb2025 02:54:47.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Wilted
+[25Feb2025 02:54:47.646] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2786, y:65, z:4118, dim:minecraft:overworld]
+[25Feb2025 02:54:47.651] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[25Feb2025 02:56:09.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Feb2025 02:56:09.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Feb2025 02:57:22.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Wilted
+[25Feb2025 02:57:22.613] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2769, y:67, z:4130, dim:minecraft:overworld]
+[25Feb2025 02:57:22.623] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[25Feb2025 02:58:09.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ was slain by Wilted
+[25Feb2025 02:58:09.811] [Server thread/DEBUG] [tombstone/]: A new grave of the player MUSA_JJ was created at position [x:2790, y:65, z:4142, dim:minecraft:overworld]
+[25Feb2025 02:58:09.816] [Server thread/INFO] [tombstone/]: The player MUSA_JJ has successfully been saved
+[25Feb2025 03:01:09.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Feb2025 03:01:09.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Feb2025 03:06:09.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Feb2025 03:06:09.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Feb2025 03:11:09.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Feb2025 03:11:09.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
