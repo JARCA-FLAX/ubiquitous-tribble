@@ -4884,6 +4884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-26 21:30:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_kitchen_drawer": {
     "criteria": {
       "has_gray_dye": "2025-02-26 21:09:26 +0000"
@@ -4923,6 +4929,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
     "criteria": {
       "has_cherry_planks": "2025-02-26 20:44:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-26 21:34:54 +0000"
     },
     "done": true
   },
@@ -4974,6 +4986,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-26 21:34:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-02-26 20:44:41 +0000"
@@ -4986,15 +5004,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-26 21:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_candle": {
     "criteria": {
       "has_gray_dye": "2025-02-26 21:09:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-26 21:34:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/light_gray_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-02-26 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-26 21:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-26 21:34:54 +0000"
     },
     "done": true
   },
@@ -5064,6 +5106,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_crate": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-26 21:34:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/light_gray_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-02-26 21:09:40 +0000"
@@ -5079,6 +5127,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-26 20:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-26 21:34:54 +0000"
     },
     "done": true
   },
@@ -5112,9 +5166,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-02-26 21:34:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/gray_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-02-26 21:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-02-26 21:34:54 +0000"
     },
     "done": true
   },
@@ -5127,6 +5193,12 @@
   "refurbished_furniture:recipes/misc/constructing/gray_bath": {
     "criteria": {
       "has_gray_dye": "2025-02-26 21:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-02-26 21:34:54 +0000"
     },
     "done": true
   },
@@ -5178,9 +5250,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_table": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-26 21:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-02-26 21:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-02-26 21:30:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-02-26 21:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-26 21:30:10 +0000"
     },
     "done": true
   },
@@ -5352,6 +5448,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-02-26 21:34:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_kitchen_sink": {
     "criteria": {
       "has_gray_dye": "2025-02-26 21:09:26 +0000"
@@ -5361,6 +5463,12 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-02-26 20:29:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-26 21:34:54 +0000"
     },
     "done": true
   },
@@ -5406,6 +5514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-26 21:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2025-02-26 21:09:40 +0000"
@@ -5421,6 +5535,18 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-26 21:12:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-26 21:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-26 21:34:54 +0000"
     },
     "done": true
   },
@@ -5508,6 +5634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-26 21:34:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
     "criteria": {
       "has_cherry_planks": "2025-02-26 20:44:57 +0000"
@@ -5550,6 +5682,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_jungle_planks": "2025-02-26 21:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_gray_wool": {
     "criteria": {
       "has_needed_dye": "2025-02-26 21:09:26 +0000"
@@ -5577,6 +5715,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_cabinetry": {
     "criteria": {
       "has_light_gray_dye": "2025-02-26 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-26 21:30:30 +0000"
     },
     "done": true
   },
