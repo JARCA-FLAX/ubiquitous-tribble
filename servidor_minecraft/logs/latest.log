@@ -263,3 +263,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [26Feb2025 20:27:14.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2704, y=112, z=3912} BlockPos{x=2707, y=111, z=3913}
 [26Feb2025 20:27:14.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2704, y=112, z=3912} BlockPos{x=2707, y=111, z=3913}
 [26Feb2025 20:27:14.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2704, y=112, z=3912} BlockPos{x=2707, y=111, z=3913}
+[26Feb2025 20:47:03.609] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2433, y=29, z=4067}
+[26Feb2025 20:47:03.613] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2431, y=29, z=4070}
+[26Feb2025 20:47:21.240] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2399, y=24, z=4389}
+[26Feb2025 20:47:21.241] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2399, y=24, z=4388}
+[26Feb2025 20:48:01.636] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2304, y=23, z=4160}
+[26Feb2025 20:48:01.636] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2304, y=24, z=4160}
+[26Feb2025 20:49:24.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Creative Mode]
+[26Feb2025 20:49:27.591] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2407, y=20, z=4945}
+[26Feb2025 20:49:35.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DauLuffy moved too quickly! -9.20106278393905,4.125000162664122,2.7616248710364744
+[26Feb2025 20:49:48.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[26Feb2025 20:54:40.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Creative Mode]
+[26Feb2025 20:55:01.174] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1740, y=-9, z=5196}
+[26Feb2025 20:55:21.433] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1668, y=-8, z=4836}
+[26Feb2025 20:55:27.527] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1565, y=21, z=4831}
+[26Feb2025 20:57:26.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[26Feb2025 20:58:20.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Creative Mode]
+[26Feb2025 20:58:32.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[26Feb2025 21:00:24.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Creative Mode]
