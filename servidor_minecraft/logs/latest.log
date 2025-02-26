@@ -232,3 +232,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [26Feb2025 01:25:32.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Timed out
 [26Feb2025 01:25:32.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
 [26Feb2025 01:25:32.049] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
+[26Feb2025 01:29:25.554] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:55501] logged in with entity id 3769 at (2047.3423241875498, 138.0, 5059.246554046505)
+[26Feb2025 01:29:25.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
+[26Feb2025 01:29:25.573] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
+[26Feb2025 01:29:28.197] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
+[26Feb2025 01:29:52.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MUSA_JJ> CHE A QUE DESDE QUE HORA TA PRENDIDO EL SERVER
+[26Feb2025 01:30:16.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Disconnected
+[26Feb2025 01:30:16.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
+[26Feb2025 01:30:16.947] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
+[26Feb2025 01:34:17.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ lost connection: Disconnected
+[26Feb2025 01:34:17.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ left the game
+[26Feb2025 01:34:17.840] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was unloaded
+[26Feb2025 01:34:20.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Feb2025 01:34:20.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Feb2025 01:34:20.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Feb2025 01:34:20.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Feb2025 01:34:20.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Feb2025 01:34:20.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Feb2025 01:34:20.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Feb2025 01:34:20.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Feb2025 01:34:20.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Feb2025 01:34:20.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Feb2025 01:34:20.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Feb2025 01:34:20.713] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26Feb2025 01:34:20.714] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[26Feb2025 01:34:20.716] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[26Feb2025 01:34:20.717] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
