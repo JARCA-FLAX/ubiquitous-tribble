@@ -2619,3 +2619,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [26Feb2025 21:41:20.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Feb2025 21:46:20.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Feb2025 21:46:20.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 21:51:20.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 21:51:20.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 21:55:01.404] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2714, y=117, z=3898}) doesn't have enough leaves around top most log
+[26Feb2025 21:55:02.305] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2715, y=117, z=3898}) doesn't have enough leaves around top most log
+[26Feb2025 21:55:21.205] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2714, y=117, z=3898}) doesn't have enough leaves around top most log
+[26Feb2025 21:56:20.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 21:56:20.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 21:59:38.092] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2703, y=116, z=3901}) doesn't have enough leaves around top most log
