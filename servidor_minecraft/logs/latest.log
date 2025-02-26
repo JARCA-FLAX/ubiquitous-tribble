@@ -281,3 +281,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [26Feb2025 20:58:20.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Creative Mode]
 [26Feb2025 20:58:32.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
 [26Feb2025 21:00:24.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Creative Mode]
+[26Feb2025 21:00:31.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[26Feb2025 21:08:52.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set the time to 1000]
+[26Feb2025 21:08:58.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Creative Mode]
+[26Feb2025 21:09:48.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
+[26Feb2025 21:10:25.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy has reached the goal [To be or not to be]
