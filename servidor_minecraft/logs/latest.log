@@ -1,61 +1,61 @@
-[26Feb2025 01:07:35.546] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[26Feb2025 01:07:35.556] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[26Feb2025 01:07:36.871] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[26Feb2025 01:07:36.978] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ubiquitous-tribble/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[26Feb2025 01:07:37.429] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[26Feb2025 01:07:37.430] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[26Feb2025 01:07:37.432] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[26Feb2025 01:07:37.433] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[26Feb2025 01:07:37.789] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[26Feb2025 01:07:37.790] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
-[26Feb2025 01:07:40.288] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[26Feb2025 01:07:40.410] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[26Feb2025 01:07:40.697] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 85 options available, 0 override(s) found
-[26Feb2025 01:07:40.710] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[26Feb2025 01:07:42.373] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[26Feb2025 01:07:49.799] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zhe000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[26Feb2025 01:07:50.852] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[26Feb2025 01:36:11.763] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[26Feb2025 01:36:11.767] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[26Feb2025 01:36:12.316] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[26Feb2025 01:36:12.367] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ubiquitous-tribble/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[26Feb2025 01:36:12.713] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[26Feb2025 01:36:12.714] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Feb2025 01:36:12.715] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Feb2025 01:36:12.716] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Feb2025 01:36:13.026] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[26Feb2025 01:36:13.028] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[26Feb2025 01:36:14.922] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[26Feb2025 01:36:15.063] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[26Feb2025 01:36:15.322] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 85 options available, 0 override(s) found
+[26Feb2025 01:36:15.332] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[26Feb2025 01:36:16.904] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[26Feb2025 01:36:22.197] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zhe000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[26Feb2025 01:36:23.004] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[26Feb2025 01:07:52.280] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[26Feb2025 01:07:52.283] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[26Feb2025 01:07:52.285] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[26Feb2025 01:07:52.287] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[26Feb2025 01:07:52.288] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[26Feb2025 01:07:52.289] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[26Feb2025 01:07:52.299] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[26Feb2025 01:07:52.301] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[26Feb2025 01:07:52.972] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[26Feb2025 01:07:52.985] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[26Feb2025 01:07:52.986] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[26Feb2025 01:07:56.977] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[26Feb2025 01:07:57.701] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[26Feb2025 01:07:57.918] [main/INFO] [journeymap/]: Initializing Packet Registries
-[26Feb2025 01:07:57.971] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[26Feb2025 01:07:57.972] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[26Feb2025 01:07:58.043] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[26Feb2025 01:07:58.148] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[26Feb2025 01:07:58.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[26Feb2025 01:07:58.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[26Feb2025 01:07:58.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
-[26Feb2025 01:07:58.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue
-[26Feb2025 01:07:58.171] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[26Feb2025 01:07:58.177] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[26Feb2025 01:07:58.179] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[26Feb2025 01:07:58.179] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[26Feb2025 01:07:58.180] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[26Feb2025 01:07:58.181] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at bl4ckscor3.mod.globalxp.compat.WailaDataProvider
-[26Feb2025 01:07:58.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Found status: BETA Current: 1.8.0 Target: 1.8.0
-[26Feb2025 01:07:58.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[26Feb2025 01:07:59.418] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.9 Target: 1.0.9
-[26Feb2025 01:07:59.418] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[26Feb2025 01:07:59.799] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[26Feb2025 01:07:59.800] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[26Feb2025 01:07:59.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.33
-[26Feb2025 01:08:02.508] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[26Feb2025 01:08:04.696] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/assets/.mcassetsroot' uses unexpected schema
-[26Feb2025 01:08:04.697] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/data/.mcassetsroot' uses unexpected schema
-[26Feb2025 01:08:08.204] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
-[26Feb2025 01:08:09.202] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
+[26Feb2025 01:36:24.185] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[26Feb2025 01:36:24.186] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[26Feb2025 01:36:24.191] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[26Feb2025 01:36:24.196] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[26Feb2025 01:36:24.198] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[26Feb2025 01:36:24.203] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[26Feb2025 01:36:24.205] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[26Feb2025 01:36:24.209] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[26Feb2025 01:36:24.909] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[26Feb2025 01:36:24.909] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[26Feb2025 01:36:24.918] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[26Feb2025 01:36:27.746] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[26Feb2025 01:36:28.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[26Feb2025 01:36:28.399] [main/INFO] [journeymap/]: Initializing Packet Registries
+[26Feb2025 01:36:28.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[26Feb2025 01:36:28.417] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[26Feb2025 01:36:28.504] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[26Feb2025 01:36:28.608] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[26Feb2025 01:36:28.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[26Feb2025 01:36:28.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[26Feb2025 01:36:28.626] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[26Feb2025 01:36:28.629] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[26Feb2025 01:36:28.631] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[26Feb2025 01:36:28.631] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[26Feb2025 01:36:28.633] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[26Feb2025 01:36:28.633] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at bl4ckscor3.mod.globalxp.compat.WailaDataProvider
+[26Feb2025 01:36:28.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
+[26Feb2025 01:36:28.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Starting version check at https://mrcrayfish.com/modupdatejson?id=catalogue
+[26Feb2025 01:36:29.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [catalogue] Found status: BETA Current: 1.8.0 Target: 1.8.0
+[26Feb2025 01:36:29.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[26Feb2025 01:36:29.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.9 Target: 1.0.9
+[26Feb2025 01:36:29.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[26Feb2025 01:36:29.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[26Feb2025 01:36:29.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[26Feb2025 01:36:30.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.33
+[26Feb2025 01:36:31.780] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[26Feb2025 01:36:33.714] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/assets/.mcassetsroot' uses unexpected schema
+[26Feb2025 01:36:33.714] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ubiquitous-tribble/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/data/.mcassetsroot' uses unexpected schema
+[26Feb2025 01:36:35.581] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
+[26Feb2025 01:36:36.507] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -107,7 +107,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[26Feb2025 01:08:09.411] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide
+[26Feb2025 01:36:36.713] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23174!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23174!/:?]
@@ -140,121 +140,682 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[26Feb2025 01:08:09.521] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 18 recipes
-[26Feb2025 01:08:09.783] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3409 advancements
-[26Feb2025 01:08:09.802] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[26Feb2025 01:08:09.814] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[26Feb2025 01:08:12.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[26Feb2025 01:08:12.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[26Feb2025 01:08:12.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[26Feb2025 01:08:12.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[26Feb2025 01:08:12.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[26Feb2025 01:08:12.358] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[26Feb2025 01:08:12.449] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[26Feb2025 01:08:12.450] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[26Feb2025 01:08:12.451] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[26Feb2025 01:08:12.451] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[26Feb2025 01:08:12.469] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[26Feb2025 01:08:12.470] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[26Feb2025 01:08:12.471] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[26Feb2025 01:08:12.567] [Server thread/INFO] [Framework/]: Loading server configs...
-[26Feb2025 01:08:12.586] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[26Feb2025 01:08:12.587] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[26Feb2025 01:08:12.593] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[26Feb2025 01:08:12.637] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[26Feb2025 01:08:12.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[26Feb2025 01:08:13.992] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
-[26Feb2025 01:08:13.992] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
-[26Feb2025 01:08:13.994] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
-[26Feb2025 01:08:18.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[26Feb2025 01:08:24.644] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:24.688] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:24.708] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:24.745] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:24.766] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:24.783] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:24.945] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:24.992] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:25.045] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:25.067] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:25.121] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:25.144] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:25.177] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:25.207] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:25.586] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:26.087] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:27.054] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:27.077] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Feb2025 01:08:27.577] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[26Feb2025 01:08:28.077] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 67%
-[26Feb2025 01:08:28.384] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9807 ms
-[26Feb2025 01:08:28.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.919s)! For help, type "help"
-[26Feb2025 01:08:28.434] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[26Feb2025 01:17:11.692] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[26Feb2025 01:17:11.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:62648] logged in with entity id 431 at (2047.3423241875498, 138.0, 5059.246554046505)
-[26Feb2025 01:17:11.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
-[26Feb2025 01:17:11.980] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
-[26Feb2025 01:17:14.702] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
-[26Feb2025 01:17:14.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2933ms or 58 ticks behind
-[26Feb2025 01:18:12.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Disconnected
-[26Feb2025 01:18:12.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
-[26Feb2025 01:18:12.098] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
-[26Feb2025 01:18:35.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:63734] logged in with entity id 733 at (2047.3423241875498, 138.0, 5059.246554046505)
-[26Feb2025 01:18:35.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
-[26Feb2025 01:18:35.385] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
-[26Feb2025 01:18:37.320] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
-[26Feb2025 01:18:42.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MUSA_JJ[/10.144.29.48:50545] logged in with entity id 971 at (2893.732178485614, 101.0, 4194.185479949588)
-[26Feb2025 01:18:42.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ joined the game
-[26Feb2025 01:18:42.114] [Server thread/INFO] [Jade/]: Syncing config to MUSA_JJ (c619e659-bb76-3139-a426-398946cf8ac4)
-[26Feb2025 01:18:42.875] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/1072, l='ServerLevel[world]', x=2776.49, y=68.00, z=4195.68]
-[26Feb2025 01:18:44.229] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was loaded
-[26Feb2025 01:19:35.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Disconnected
-[26Feb2025 01:19:35.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
-[26Feb2025 01:19:35.504] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
-[26Feb2025 01:21:46.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:49790] logged in with entity id 1512 at (2047.3423241875498, 138.0, 5059.246554046505)
-[26Feb2025 01:21:46.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
-[26Feb2025 01:21:46.990] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
-[26Feb2025 01:21:48.667] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
-[26Feb2025 01:22:47.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Timed out
-[26Feb2025 01:22:47.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
-[26Feb2025 01:22:47.297] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
-[26Feb2025 01:22:59.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:50623] logged in with entity id 1998 at (2047.3423241875498, 138.0, 5059.246554046505)
-[26Feb2025 01:22:59.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
-[26Feb2025 01:22:59.429] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
-[26Feb2025 01:23:01.214] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
-[26Feb2025 01:23:59.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Timed out
-[26Feb2025 01:23:59.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
-[26Feb2025 01:23:59.653] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
-[26Feb2025 01:24:31.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:51759] logged in with entity id 2526 at (2047.3423241875498, 138.0, 5059.246554046505)
-[26Feb2025 01:24:31.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
-[26Feb2025 01:24:31.839] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
-[26Feb2025 01:24:33.391] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
-[26Feb2025 01:25:32.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Timed out
-[26Feb2025 01:25:32.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
-[26Feb2025 01:25:32.049] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
-[26Feb2025 01:29:25.554] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:55501] logged in with entity id 3769 at (2047.3423241875498, 138.0, 5059.246554046505)
-[26Feb2025 01:29:25.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
-[26Feb2025 01:29:25.573] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
-[26Feb2025 01:29:28.197] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
-[26Feb2025 01:29:52.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MUSA_JJ> CHE A QUE DESDE QUE HORA TA PRENDIDO EL SERVER
-[26Feb2025 01:30:16.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Disconnected
-[26Feb2025 01:30:16.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
-[26Feb2025 01:30:16.947] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
-[26Feb2025 01:34:17.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ lost connection: Disconnected
-[26Feb2025 01:34:17.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ left the game
-[26Feb2025 01:34:17.840] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was unloaded
-[26Feb2025 01:34:20.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[26Feb2025 01:34:20.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[26Feb2025 01:34:20.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[26Feb2025 01:34:20.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[26Feb2025 01:34:20.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[26Feb2025 01:34:20.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[26Feb2025 01:34:20.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[26Feb2025 01:34:20.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[26Feb2025 01:34:20.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[26Feb2025 01:34:20.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[26Feb2025 01:34:20.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[26Feb2025 01:34:20.713] [Server thread/INFO] [Framework/]: Unloading server configs...
-[26Feb2025 01:34:20.714] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[26Feb2025 01:34:20.716] [Server thread/INFO] [Framework/]: Finished unloading server configs
-[26Feb2025 01:34:20.717] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[26Feb2025 01:36:36.783] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 18 recipes
+[26Feb2025 01:36:36.929] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3409 advancements
+[26Feb2025 01:36:36.939] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[26Feb2025 01:36:36.944] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[26Feb2025 01:36:38.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[26Feb2025 01:36:38.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[26Feb2025 01:36:38.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[26Feb2025 01:36:38.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[26Feb2025 01:36:39.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[26Feb2025 01:36:39.030] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[26Feb2025 01:36:39.169] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[26Feb2025 01:36:39.169] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[26Feb2025 01:36:39.169] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[26Feb2025 01:36:39.170] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[26Feb2025 01:36:39.188] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[26Feb2025 01:36:39.189] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[26Feb2025 01:36:39.190] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[26Feb2025 01:36:39.260] [Server thread/INFO] [Framework/]: Loading server configs...
+[26Feb2025 01:36:39.273] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[26Feb2025 01:36:39.273] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[26Feb2025 01:36:39.320] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[26Feb2025 01:36:39.321] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[26Feb2025 01:36:39.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[26Feb2025 01:36:40.341] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[26Feb2025 01:36:40.342] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[26Feb2025 01:36:40.343] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[26Feb2025 01:36:43.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[26Feb2025 01:36:49.069] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Feb2025 01:36:49.070] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Feb2025 01:36:49.073] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Feb2025 01:36:49.074] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Feb2025 01:36:49.075] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Feb2025 01:36:49.075] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Feb2025 01:36:49.076] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Feb2025 01:36:49.092] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Feb2025 01:36:49.093] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Feb2025 01:36:49.094] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Feb2025 01:36:49.095] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Feb2025 01:36:49.408] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Feb2025 01:36:49.875] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Feb2025 01:36:50.001] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[26Feb2025 01:36:50.470] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Feb2025 01:36:50.890] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[26Feb2025 01:36:51.509] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[26Feb2025 01:36:51.916] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[26Feb2025 01:36:52.399] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[26Feb2025 01:36:52.747] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2757, y=-28, z=4062}
+[26Feb2025 01:36:52.747] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2758, y=-28, z=4062}
+[26Feb2025 01:36:52.748] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2759, y=-28, z=4062}
+[26Feb2025 01:36:52.874] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[26Feb2025 01:36:53.379] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[26Feb2025 01:36:53.894] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[26Feb2025 01:36:54.446] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[26Feb2025 01:36:54.901] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[26Feb2025 01:36:55.394] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[26Feb2025 01:36:55.895] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
+[26Feb2025 01:36:56.387] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[26Feb2025 01:36:57.028] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[26Feb2025 01:36:57.398] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
+[26Feb2025 01:36:57.919] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[26Feb2025 01:36:58.374] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 40%
+[26Feb2025 01:36:58.878] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
+[26Feb2025 01:36:59.390] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[26Feb2025 01:36:59.699] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2685, y=-26, z=4043}
+[26Feb2025 01:36:59.881] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 50%
+[26Feb2025 01:37:00.396] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 56%
+[26Feb2025 01:37:00.900] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[26Feb2025 01:37:01.384] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 61%
+[26Feb2025 01:37:01.886] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 64%
+[26Feb2025 01:37:02.374] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[26Feb2025 01:37:02.876] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[26Feb2025 01:37:03.402] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[26Feb2025 01:37:03.889] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
+[26Feb2025 01:37:04.405] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[26Feb2025 01:37:04.917] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[26Feb2025 01:37:05.378] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[26Feb2025 01:37:05.882] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2638, y=-10, z=4205}
+[26Feb2025 01:37:05.889] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
+[26Feb2025 01:37:06.348] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 22474 ms
+[26Feb2025 01:37:06.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (27.165s)! For help, type "help"
+[26Feb2025 01:37:06.400] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[26Feb2025 01:37:31.630] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[26Feb2025 01:37:31.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:61735] logged in with entity id 500 at (2047.3423241875498, 138.0, 5059.246554046505)
+[26Feb2025 01:37:31.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
+[26Feb2025 01:37:32.070] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
+[26Feb2025 01:37:34.316] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
+[26Feb2025 01:37:34.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
+[26Feb2025 01:37:49.802] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1803, y=-7, z=5213}
+[26Feb2025 01:38:05.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:05.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:05.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:05.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:05.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:06.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:07.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:08.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:09.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:10.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:11.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:12.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:13.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:14.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:15.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:16.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:17.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:18.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:19.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:20.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:21.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:22.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:23.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:24.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:25.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:26.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:27.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:28.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:29.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:30.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS was kicked for floating too long!
+[26Feb2025 01:38:31.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Disconnected
+[26Feb2025 01:38:31.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
+[26Feb2025 01:38:31.931] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
+[26Feb2025 01:39:01.436] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CAMUS[/10.144.110.172:62827] logged in with entity id 980 at (1975.5587387488936, 131.25220334025371, 5046.852485731761)
+[26Feb2025 01:39:01.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS joined the game
+[26Feb2025 01:39:01.459] [Server thread/INFO] [Jade/]: Syncing config to CAMUS (eed96958-81dc-3054-a44a-6bcc61f8e0cb)
+[26Feb2025 01:39:03.058] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was loaded
+[26Feb2025 01:39:23.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CAMUS lost connection: Disconnected
+[26Feb2025 01:39:23.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CAMUS left the game
+[26Feb2025 01:39:23.132] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of eed96958-81dc-3054-a44a-6bcc61f8e0cb was unloaded
+[26Feb2025 01:39:59.461] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MUSA_JJ[/10.144.29.48:50796] logged in with entity id 1275 at (2894.926068070586, 95.0, 4175.562405322194)
+[26Feb2025 01:39:59.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ joined the game
+[26Feb2025 01:39:59.513] [Server thread/INFO] [Jade/]: Syncing config to MUSA_JJ (c619e659-bb76-3139-a426-398946cf8ac4)
+[26Feb2025 01:40:00.935] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was loaded
+[26Feb2025 01:40:04.105] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3070, y=-51, z=4094}
+[26Feb2025 01:40:04.106] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3069, y=-51, z=4094}
+[26Feb2025 01:40:07.779] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3113, y=-36, z=4195}
+[26Feb2025 01:40:08.661] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3105, y=-25, z=4384}
+[26Feb2025 01:50:10.279] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=3119, y=15, z=4012}
+[26Feb2025 01:53:25.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2865, y=101, z=4176} BlockPos{x=2863, y=101, z=4177}
+[26Feb2025 01:57:15.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ lost connection: Timed out
+[26Feb2025 01:57:15.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ left the game
+[26Feb2025 01:57:15.877] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was unloaded
+[26Feb2025 01:57:51.368] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a8be605[id=<null>,name=MUSA_JJ,properties={},legacy=false] (/10.144.29.48:50927) lost connection: Timed out
+[26Feb2025 01:58:23.415] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c156e14[id=<null>,name=MUSA_JJ,properties={},legacy=false] (/10.144.29.48:50976) lost connection: Disconnected
+[26Feb2025 01:58:37.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MUSA_JJ[/10.144.29.48:50977] logged in with entity id 4621 at (2898.719585577646, 94.00133597911214, 4165.344415739563)
+[26Feb2025 01:58:37.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ joined the game
+[26Feb2025 01:58:37.325] [Server thread/INFO] [Jade/]: Syncing config to MUSA_JJ (c619e659-bb76-3139-a426-398946cf8ac4)
+[26Feb2025 01:58:38.329] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was loaded
+[26Feb2025 01:59:23.642] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3069, y=16, z=3926}
+[26Feb2025 01:59:25.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ moved too quickly! -0.39130198803104577,-8.756443353305954,-5.983706146414079
+[26Feb2025 02:02:37.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ lost connection: Timed out
+[26Feb2025 02:02:37.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ left the game
+[26Feb2025 02:02:37.727] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was unloaded
+[26Feb2025 02:02:52.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MUSA_JJ[/10.144.29.48:50988] logged in with entity id 6013 at (2891.399138207358, 95.0, 4188.434006670839)
+[26Feb2025 02:02:52.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ joined the game
+[26Feb2025 02:02:52.174] [Server thread/INFO] [Jade/]: Syncing config to MUSA_JJ (c619e659-bb76-3139-a426-398946cf8ac4)
+[26Feb2025 02:02:53.225] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was loaded
+[26Feb2025 02:10:04.538] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3044, y=-42, z=4481}
+[26Feb2025 02:12:43.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ moved too quickly! 5.637506971934727,-0.07520089011894981,-8.670137368649193
+[26Feb2025 02:15:23.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ lost connection: Timed out
+[26Feb2025 02:15:23.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ left the game
+[26Feb2025 02:15:23.370] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was unloaded
+[26Feb2025 02:15:31.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MUSA_JJ[/10.144.29.48:51182] logged in with entity id 13334 at (2896.3295948761142, 100.0, 4193.893997693115)
+[26Feb2025 02:15:31.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ joined the game
+[26Feb2025 02:15:31.860] [Server thread/INFO] [Jade/]: Syncing config to MUSA_JJ (c619e659-bb76-3139-a426-398946cf8ac4)
+[26Feb2025 02:15:33.359] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was loaded
+[26Feb2025 02:15:40.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ moved too quickly! -0.7867112365188405,-0.891802749528992,-10.106630308844615
+[26Feb2025 02:16:01.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUSA_JJ lost connection: Timed out
+[26Feb2025 02:16:01.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MUSA_JJ left the game
+[26Feb2025 02:16:01.924] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of c619e659-bb76-3139-a426-398946cf8ac4 was unloaded
+[26Feb2025 02:16:40.064] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7921aaa4[id=<null>,name=MUSA_JJ,properties={},legacy=false] (/10.144.29.48:51184) lost connection: Disconnected
+[26Feb2025 02:17:20.364] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78d9fc0f[id=<null>,name=MUSA_JJ,properties={},legacy=false] (/10.144.29.48:51185) lost connection: Timed out
+[26Feb2025 02:19:28.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Feb2025 02:19:28.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Feb2025 02:19:28.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Feb2025 02:19:28.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Feb2025 02:19:28.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Feb2025 02:19:29.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Feb2025 02:19:29.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Feb2025 02:19:29.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Feb2025 02:19:29.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Feb2025 02:19:29.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Feb2025 02:19:29.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Feb2025 02:19:29.548] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26Feb2025 02:19:29.549] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[26Feb2025 02:19:29.551] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[26Feb2025 02:19:29.553] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
