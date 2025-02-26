@@ -298,3 +298,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [26Feb2025 22:09:44.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy joined the game
 [26Feb2025 22:09:45.018] [Server thread/INFO] [Jade/]: Syncing config to DauLuffy (98a18c82-c473-34f6-a10d-15a922221414)
 [26Feb2025 22:09:46.059] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was loaded
+[26Feb2025 22:14:21.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Creative Mode]
+[26Feb2025 22:14:32.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DauLuffy: Set own game mode to Survival Mode]
