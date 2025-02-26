@@ -2486,6 +2486,7 @@
       "minecraft:creeper": "2025-02-19 21:03:40 +0000",
       "minecraft:phantom": "2025-02-20 01:51:16 +0000",
       "minecraft:wither_skeleton": "2025-02-20 01:50:28 +0000",
+      "minecraft:enderman": "2025-02-26 22:51:04 +0000",
       "minecraft:zombie": "2025-02-19 20:38:30 +0000",
       "minecraft:zombie_villager": "2025-02-20 02:03:06 +0000"
     },
@@ -5773,9 +5774,51 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-02-26 22:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-26 22:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-26 22:43:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-26 22:43:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-26 22:43:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-02-26 22:22:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-26 22:43:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-02-26 22:43:19 +0000"
     },
     "done": true
   },
