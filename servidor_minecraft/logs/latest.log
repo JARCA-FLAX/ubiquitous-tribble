@@ -291,3 +291,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [26Feb2025 21:38:47.057] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17632, l='ServerLevel[world]', x=2762.47, y=63.00, z=3807.80] was struck by lightning LightningBolt['Lightning Bolt'/25615, l='ServerLevel[world]', x=2762.50, y=64.00, z=3806.50].
 [26Feb2025 21:38:47.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/17634, l='ServerLevel[world]', x=2762.46, y=64.00, z=3806.99] was struck by lightning LightningBolt['Lightning Bolt'/25615, l='ServerLevel[world]', x=2762.50, y=64.00, z=3806.50].
 [26Feb2025 21:38:47.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17614, l='ServerLevel[world]', x=2763.96, y=63.56, z=3809.50] was struck by lightning LightningBolt['Lightning Bolt'/25615, l='ServerLevel[world]', x=2762.50, y=64.00, z=3806.50].
+[26Feb2025 22:03:32.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DauLuffy lost connection: Disconnected
+[26Feb2025 22:03:32.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy left the game
+[26Feb2025 22:03:32.757] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was unloaded
+[26Feb2025 22:09:44.970] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DauLuffy[/10.144.101.34:59992] logged in with entity id 30560 at (2713.5, 114.0, 3912.5)
+[26Feb2025 22:09:44.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DauLuffy joined the game
+[26Feb2025 22:09:45.018] [Server thread/INFO] [Jade/]: Syncing config to DauLuffy (98a18c82-c473-34f6-a10d-15a922221414)
+[26Feb2025 22:09:46.059] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 98a18c82-c473-34f6-a10d-15a922221414 was loaded
