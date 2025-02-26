@@ -1082,6 +1082,7 @@
     "criteria": {
       "cooked_mutton": "2025-02-19 20:48:01 +0000",
       "chorus_fruit": "2025-02-20 03:33:28 +0000",
+      "cooked_beef": "2025-02-26 21:41:09 +0000",
       "apple": "2025-02-19 19:55:59 +0000",
       "pumpkin_pie": "2025-02-20 01:42:12 +0000",
       "bread": "2025-02-19 19:58:44 +0000",
@@ -4878,6 +4879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-02-26 21:40:28 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_unstable_intangibility": {
     "criteria": {
       "has_magic_scroll": "2025-02-26 21:10:25 +0000"
@@ -4986,6 +4993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-02-26 21:40:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
     "criteria": {
       "has_jungle_planks": "2025-02-26 21:34:54 +0000"
@@ -5061,6 +5074,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
     "criteria": {
       "has_cherry_planks": "2025-02-26 20:44:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-26 21:40:28 +0000"
     },
     "done": true
   },
@@ -5253,6 +5272,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_table": {
     "criteria": {
       "has_jungle_planks": "2025-02-26 21:34:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-02-26 21:40:03 +0000"
     },
     "done": true
   },

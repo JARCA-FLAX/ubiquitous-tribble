@@ -2615,3 +2615,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [26Feb2025 21:38:47.057] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17632, l='ServerLevel[world]', x=2762.47, y=63.00, z=3807.80] was struck by lightning LightningBolt['Lightning Bolt'/25615, l='ServerLevel[world]', x=2762.50, y=64.00, z=3806.50].
 [26Feb2025 21:38:47.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/17634, l='ServerLevel[world]', x=2762.46, y=64.00, z=3806.99] was struck by lightning LightningBolt['Lightning Bolt'/25615, l='ServerLevel[world]', x=2762.50, y=64.00, z=3806.50].
 [26Feb2025 21:38:47.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17614, l='ServerLevel[world]', x=2763.96, y=63.56, z=3809.50] was struck by lightning LightningBolt['Lightning Bolt'/25615, l='ServerLevel[world]', x=2762.50, y=64.00, z=3806.50].
+[26Feb2025 21:41:20.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 21:41:20.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 21:46:20.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 21:46:20.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
